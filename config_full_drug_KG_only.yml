@@ -1,0 +1,78 @@
+#THIS CONFIG FILE IS FOR COVID-19 KNOWLEDGE GRAPH AND DRUG REPURPOSING KNOWLEDGE GRAPH USE CASE
+#WE USE THE DRKG AND COVID-19-KG AS THE INPUT DATASETS
+
+#THERE ARE 3 MAIN LAYERS
+#LAYER 1 - DDI DATA FROM DRKG
+#LAYER 2 - GENE-GENE FROM DRKG
+#LAYER 3 - PATHWAY-PHENOTYPE FROM COVID-19 KG
+
+#THERE ARE  SIX MAIN BIPARTIE GRAPHS
+#BIPARTITE 1 - GENE-COMPOUND FROM DKRG
+#BIPARTITE 2 - GENE-CHEMICAL FROM COVID-19 KG
+#BIPARTITE 3 - PATHWAY-GENE FROM COVID-19 KG
+#BIPARTITE 4 - PHENOTYPE-GENE FROM COVID-19 KG
+#BIPARTITE 5 - PHENOTYPE-CHEMICAL FROM COVID-19 KG
+#BIPARTITE 6 - VIRUS-HOST FROM COVID-19 KG  
+
+#hypothesis approach using IL6 and IL6R as seeds
+seed: seeds_hypo_driven_KG.txt
+#seed: seeds_hypo_driven_KG_and_Ritonavir.txt
+
+r: 0.7
+# self_loops: Are self-loops allowed? 1 yes, 0 not
+self_loops: 0
+# eta: Restart probability for each multiplex. an equal probability to restart in each layer of each multiplex.
+eta: [1/3, 1/3, 1/3]
+#eta: [1/3, 1/3, 1/3]
+#4. Inter multiplex Networks Jump Probability (lambda) #an equal probability to jump from one multiplex network to another or to stay in the same multiplex network
+lamb:
+    - [1/3, 1/3, 1/3]
+    - [1/3, 1/3, 1/3]
+    - [1/3, 1/3, 1/3]
+    #- [1]
+
+
+multiplex:
+
+    1:
+        layers:
+            - COVID_KG/Drug_repurposing_knowledge_Graph/files/Drug_repurposing_knowledge_Graph_DDI_map_uniq.txt
+#            - Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+#        graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+
+    2:
+        layers:
+            - COVID_KG/Drug_repurposing_knowledge_Graph/files/Drug_repurposing_knowledge_Graph_Gene_Gene_map_uniq.txt
+#            - Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+#            - Networks/Transcriptomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+#        graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+
+    3:
+        layers:
+            - COVID_KG/COVID_knowledge_Graph/files/phenotype_pathway_interaction_map3.txt
+#             - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+ #           - Networks/Metabolomics-all_sig_severe_absolute_PCC.txt1
+        delta: 0.5
+        #graph_type: [00, 00, 00]
+        graph_type: [00]
+#        tau: [1/3, 1/3, 1/3]
+        tau: [1]
+
+bipartite:
+    COVID_KG/Drug_repurposing_knowledge_Graph/files/Drug_repurposing_knowledge_Graph_Gene_Compound_map_uniq.txt: {source: 2, 'target': 1}
+    COVID_KG/COVID_knowledge_Graph/files/COVID-19_Genes_Interaction_with_chemicals-CTD_map4.txt: {source: 2, 'target': 1}
+    COVID_KG/COVID_knowledge_Graph/files/Pathways_Interaction_with_COVID-19_Genes_map3.txt: {source: 3, 'target': 2}
+    COVID_KG/COVID_knowledge_Graph/files/Phenotypes_Interactions_with_COVID-19_Genes_map3.txt: {source: 3, 'target': 2}
+    COVID_KG/COVID_knowledge_Graph/files/Phenotypes_Interactions_with_COVID-19_chemicals_map3.txt: {source: 3, 'target': 1}
+    COVID_KG/COVID_knowledge_Graph/files/virus_host_extracted_map3.txt: {source: 5, 'target': 2}
