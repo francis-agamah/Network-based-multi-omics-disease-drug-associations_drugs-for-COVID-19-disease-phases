@@ -1,0 +1,1611 @@
+GO:0044790	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide
+GO:1904972	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide
+GO:0044659	(2-(2',3'-dihydrobenzo(1,4)dioxin-6'-yl)-2-hydroxy-1-pyrrolidin-1-ylmethylethyl)nonanoic acid amide
+GO:0019058	(2-tert-butoxy-1-(2-cyclohexyl-1-(1-formyl-2-(2-oxopyrrolidin-3-yl)ethylcarbamoyl)ethylcarbamoyl)propyl)carbamic acid benzyl ester
+GO:0032729	2019-nCoV Vaccine mRNA-1273
+GO:0002302	2019-nCoV Vaccine mRNA-1273
+GO:0002294	2019-nCoV Vaccine mRNA-1273
+GO:0046718	4-(4-guanidinobenzoyloxy)phenylacetic acid
+GO:0016032	4-(4-guanidinobenzoyloxy)phenylacetic acid
+GO:0042755	4-(4-guanidinobenzoyloxy)phenylacetic acid
+GO:0039694	5,5'-(5,5'-((1R,2R)-1,2-dihydroxyethane-1,2-diyl)bis(1,3,4-oxadiazole-5,2-diyl))dibenzene-1,2,3-triol
+GO:0019083	5,5'-(5,5'-((1R,2R)-1,2-dihydroxyethane-1,2-diyl)bis(1,3,4-oxadiazole-5,2-diyl))dibenzene-1,2,3-triol
+GO:0006915	Acetazolamide
+GO:0044237	Acetazolamide
+GO:0072593	Acetazolamide
+GO:0006874	Acetazolamide
+GO:0042310	Acetazolamide
+GO:0003094	Acetazolamide
+GO:0035812	Acetazolamide
+GO:0035810	Acetazolamide
+GO:0042311	Acetazolamide
+GO:0007268	Acetazolamide
+GO:0004089	Acetazolamide
+GO:0043086	Acetazolamide
+GO:0010470	Acetazolamide
+GO:0008284	Active Hexose Correlated Compound
+GO:0010942	Active Hexose Correlated Compound
+GO:0046466	Active Hexose Correlated Compound
+GO:1902512	Active Hexose Correlated Compound
+GO:1900017	Active Hexose Correlated Compound
+GO:0045429	Active Hexose Correlated Compound
+GO:1901224	Active Hexose Correlated Compound
+GO:2000556	Active Hexose Correlated Compound
+GO:0006919	Active Hexose Correlated Compound
+GO:0050778	Active Hexose Correlated Compound
+GO:0036145	Active Hexose Correlated Compound
+GO:0050766	Active Hexose Correlated Compound
+GO:0002286	Active Hexose Correlated Compound
+GO:2000318	Active Hexose Correlated Compound
+GO:0035702	Active Hexose Correlated Compound
+GO:0002827	Active Hexose Correlated Compound
+GO:0045089	Active Hexose Correlated Compound
+GO:0002260	Active Hexose Correlated Compound
+GO:0002381	Active Hexose Correlated Compound
+GO:0002726	Active Hexose Correlated Compound
+GO:0002821	Active Hexose Correlated Compound
+GO:0046630	Active Hexose Correlated Compound
+GO:0044565	Active Hexose Correlated Compound
+GO:0032655	Active Hexose Correlated Compound
+GO:0032816	Active Hexose Correlated Compound
+GO:2001198	Active Hexose Correlated Compound
+GO:0045954	Active Hexose Correlated Compound
+GO:0039693	Antiviral Agents
+GO:0019058	apilimod
+GO:1903428	apilimod
+GO:0008285	apilimod
+GO:0046718	apilimod
+GO:0006914	apilimod
+GO:0032635	apilimod
+GO:0007040	apilimod
+GO:1990959	apilimod
+GO:0001780	apilimod
+GO:0090023	apilimod
+GO:0043029	apilimod
+GO:0001782	apilimod
+GO:1904563	apilimod
+GO:1903543	apilimod
+GO:0072537	apilimod
+GO:1990523	apilimod
+GO:0032613	apilimod
+GO:0032615	apilimod
+GO:0032627	apilimod
+GO:0090383	apilimod
+GO:0090385	apilimod
+GO:0030512	apilimod
+GO:0042088	apilimod
+GO:2000317	apilimod
+GO:2000408	apilimod
+GO:2000509	apilimod
+GO:2000555	apilimod
+GO:0036258	apilimod
+GO:0008283	Azithromycin
+GO:0006915	Azithromycin
+GO:0019058	Azithromycin
+GO:0044237	Azithromycin
+GO:0006979	Azithromycin
+GO:0006914	Azithromycin
+GO:0140042	Azithromycin
+GO:0010718	Azithromycin
+GO:0030595	Azithromycin
+GO:0090303	Azithromycin
+GO:0072672	Azithromycin
+GO:0042116	Azithromycin
+GO:0120192	Azithromycin
+GO:0046718	baricitinib
+GO:0099049	baricitinib
+GO:0008283	Betulinic Acid
+GO:0006915	Betulinic Acid
+GO:0044237	Betulinic Acid
+GO:0008219	Betulinic Acid
+GO:0008284	Betulinic Acid
+GO:0008285	Betulinic Acid
+GO:0043065	Betulinic Acid
+GO:0010942	Betulinic Acid
+GO:0016042	Betulinic Acid
+GO:0006749	Betulinic Acid
+GO:0045930	Betulinic Acid
+GO:0004784	Betulinic Acid
+GO:0004602	Betulinic Acid
+GO:0006974	Betulinic Acid
+GO:0002523	Betulinic Acid
+GO:0004364	Betulinic Acid
+GO:0008203	Betulinic Acid
+GO:0030336	Betulinic Acid
+GO:0010918	Betulinic Acid
+GO:0097327	Betulinic Acid
+GO:0000084	Betulinic Acid
+GO:0070782	Betulinic Acid
+GO:0030335	Betulinic Acid
+GO:0070265	Betulinic Acid
+GO:0030262	Betulinic Acid
+GO:2001272	Betulinic Acid
+GO:0000080	Betulinic Acid
+GO:0016505	Betulinic Acid
+GO:0016477	Betulinic Acid
+GO:0036164	Betulinic Acid
+GO:0004197	Betulinic Acid
+GO:0045779	Betulinic Acid
+GO:0009314	Betulinic Acid
+GO:0032125	Betulinic Acid
+GO:2001206	Betulinic Acid
+GO:0006644	Betulinic Acid
+GO:0015020	Betulinic Acid
+GO:0045780	Betulinic Acid
+GO:0032729	BNT162 Vaccine
+GO:0002302	BNT162 Vaccine
+GO:0002294	BNT162 Vaccine
+GO:0002925	BNT162 Vaccine
+GO:0008283	camostat
+GO:0019058	camostat
+GO:0046718	camostat
+GO:0019079	camostat
+GO:0016032	camostat
+GO:0006260	camostat
+GO:0042755	camostat
+GO:0006412	camostat
+GO:0002534	camostat
+GO:1902573	camostat
+GO:0032774	camostat
+GO:0044237	cannabidiolic acid
+GO:0006954	cannabidiolic acid
+GO:0016032	cannabidiolic acid
+GO:0046034	cannabidiolic acid
+GO:0010884	cannabidiolic acid
+GO:0070509	cannabidiolic acid
+GO:0019233	cannabidiolic acid
+GO:1904646	cannabidiolic acid
+GO:0043433	cannabidiolic acid
+GO:0009408	cannabidiolic acid
+GO:0048266	cannabidiolic acid
+GO:0043149	cannabidiolic acid
+GO:0016032	cannabigerolic acid
+GO:0010884	cannabigerolic acid
+GO:0070509	cannabigerolic acid
+GO:0008283	cepharanthine
+GO:0006915	cepharanthine
+GO:0019058	cepharanthine
+GO:0045930	cepharanthine
+GO:0030154	cepharanthine
+GO:0000084	cepharanthine
+GO:0045023	cepharanthine
+GO:0008283	Chloroquine
+GO:0006915	Chloroquine
+GO:0019058	Chloroquine
+GO:0044237	Chloroquine
+GO:0008219	Chloroquine
+GO:1903428	Chloroquine
+GO:0006979	Chloroquine
+GO:0008284	Chloroquine
+GO:0008285	Chloroquine
+GO:0043065	Chloroquine
+GO:0010942	Chloroquine
+GO:0016042	Chloroquine
+GO:1903409	Chloroquine
+GO:0006749	Chloroquine
+GO:0046718	Chloroquine
+GO:0072593	Chloroquine
+GO:0019079	Chloroquine
+GO:0006750	Chloroquine
+GO:0006874	Chloroquine
+GO:0008217	Chloroquine
+GO:0051881	Chloroquine
+GO:0039694	Chloroquine
+GO:0004784	Chloroquine
+GO:0016049	Chloroquine
+GO:0004602	Chloroquine
+GO:0006309	Chloroquine
+GO:0006914	Chloroquine
+GO:0007049	Chloroquine
+GO:0140042	Chloroquine
+GO:1902512	Chloroquine
+GO:0004457	Chloroquine
+GO:0008203	Chloroquine
+GO:0030336	Chloroquine
+GO:0046034	Chloroquine
+GO:1900017	Chloroquine
+GO:0030154	Chloroquine
+GO:0006497	Chloroquine
+GO:0097327	Chloroquine
+GO:0000045	Chloroquine
+GO:0001836	Chloroquine
+GO:0090398	Chloroquine
+GO:0003094	Chloroquine
+GO:0004035	Chloroquine
+GO:0019432	Chloroquine
+GO:0006695	Chloroquine
+GO:0030263	Chloroquine
+GO:0032760	Chloroquine
+GO:0070782	Chloroquine
+GO:0006641	Chloroquine
+GO:0044790	Chloroquine
+GO:0035812	Chloroquine
+GO:1903047	Chloroquine
+GO:0035810	Chloroquine
+GO:0006809	Chloroquine
+GO:0060326	Chloroquine
+GO:0010890	Chloroquine
+GO:0046449	Chloroquine
+GO:0031987	Chloroquine
+GO:0051092	Chloroquine
+GO:0030335	Chloroquine
+GO:0032635	Chloroquine
+GO:0071466	Chloroquine
+GO:0001649	Chloroquine
+GO:0007040	Chloroquine
+GO:0016887	Chloroquine
+GO:0006606	Chloroquine
+GO:0019081	Chloroquine
+GO:0061909	Chloroquine
+GO:0042554	Chloroquine
+GO:0007009	Chloroquine
+GO:0070265	Chloroquine
+GO:0061739	Chloroquine
+GO:0030262	Chloroquine
+GO:2000786	Chloroquine
+GO:0005776	Chloroquine
+GO:0007033	Chloroquine
+GO:0019076	Chloroquine
+GO:0010917	Chloroquine
+GO:0010508	Chloroquine
+GO:0086003	Chloroquine
+GO:0039693	Chloroquine
+GO:0009615	Chloroquine
+GO:0031410	Chloroquine
+GO:0030730	Chloroquine
+GO:1905146	Chloroquine
+GO:0007042	Chloroquine
+GO:0010507	Chloroquine
+GO:0006919	Chloroquine
+GO:0075733	Chloroquine
+GO:0009636	Chloroquine
+GO:0005769	Chloroquine
+GO:0046827	Chloroquine
+GO:0045444	Chloroquine
+GO:0000423	Chloroquine
+GO:0097214	Chloroquine
+GO:0098708	Chloroquine
+GO:1904053	Chloroquine
+GO:0045023	Chloroquine
+GO:0033344	Chloroquine
+GO:0055072	Chloroquine
+GO:0036019	Chloroquine
+GO:0050778	Chloroquine
+GO:0000080	Chloroquine
+GO:0036336	Chloroquine
+GO:1905037	Chloroquine
+GO:0032727	Chloroquine
+GO:0007032	Chloroquine
+GO:0044754	Chloroquine
+GO:0008121	Chloroquine
+GO:0036269	Chloroquine
+GO:0007030	Chloroquine
+GO:0032848	Chloroquine
+GO:1904109	Chloroquine
+GO:0061951	Chloroquine
+GO:0031398	Chloroquine
+GO:0086004	Chloroquine
+GO:0036164	Chloroquine
+GO:0048102	Chloroquine
+GO:0016050	Chloroquine
+GO:0061024	Chloroquine
+GO:0090261	Chloroquine
+GO:0002718	Chloroquine
+GO:0001525	Chloroquine
+GO:0070374	Chloroquine
+GO:0050728	Chloroquine
+GO:0005764	Chloroquine
+GO:0002250	Chloroquine
+GO:0045672	Chloroquine
+GO:0032715	Chloroquine
+GO:0032720	Chloroquine
+GO:2000134	Chloroquine
+GO:0050801	Chloroquine
+GO:0019046	Chloroquine
+GO:0007035	Chloroquine
+GO:1901098	Chloroquine
+GO:0097153	Chloroquine
+GO:0097213	Chloroquine
+GO:0046677	Chloroquine
+GO:0031503	Chloroquine
+GO:0097352	Chloroquine
+GO:0010506	Chloroquine
+GO:0072719	Chloroquine
+GO:0035584	Chloroquine
+GO:0072678	Chloroquine
+GO:0035662	Chloroquine
+GO:1902117	Chloroquine
+GO:0035752	Chloroquine
+GO:1903753	Chloroquine
+GO:0043966	Chloroquine
+GO:0034113	Chloroquine
+GO:1903988	Chloroquine
+GO:0060073	Chloroquine
+GO:0051901	Chloroquine
+GO:0006171	Chloroquine
+GO:0044423	Chloroquine
+GO:0099610	Chloroquine
+GO:0075514	Chloroquine
+GO:1905166	Chloroquine
+GO:0051454	Chloroquine
+GO:0032606	Chloroquine
+GO:0032691	Chloroquine
+GO:1900753	Chloroquine
+GO:0004517	Chloroquine
+GO:2001244	Chloroquine
+GO:0042599	Chloroquine
+GO:0042428	Chloroquine
+GO:0042417	Chloroquine
+GO:0042415	Chloroquine
+GO:0030399	Chloroquine
+GO:0006855	Chloroquine
+GO:0150032	Chloroquine
+GO:0006898	Chloroquine
+GO:0031319	Chloroquine
+GO:0007635	Chloroquine
+GO:0045852	Chloroquine
+GO:0045851	Chloroquine
+GO:0039696	Chloroquine
+GO:0045795	Chloroquine
+GO:2000409	Chloroquine
+GO:0019395	Chloroquine
+GO:0006915	chloroquine diphosphate
+GO:0019058	chloroquine diphosphate
+GO:0044237	chloroquine diphosphate
+GO:0010942	chloroquine diphosphate
+GO:0016042	chloroquine diphosphate
+GO:0045930	chloroquine diphosphate
+GO:0006750	chloroquine diphosphate
+GO:0046466	chloroquine diphosphate
+GO:0006874	chloroquine diphosphate
+GO:0016049	chloroquine diphosphate
+GO:0006914	chloroquine diphosphate
+GO:0004457	chloroquine diphosphate
+GO:0004069	chloroquine diphosphate
+GO:0006497	chloroquine diphosphate
+GO:0000045	chloroquine diphosphate
+GO:0051882	chloroquine diphosphate
+GO:0031987	chloroquine diphosphate
+GO:0007040	chloroquine diphosphate
+GO:0061909	chloroquine diphosphate
+GO:2000786	chloroquine diphosphate
+GO:0010508	chloroquine diphosphate
+GO:0009615	chloroquine diphosphate
+GO:0033344	chloroquine diphosphate
+GO:0006412	chloroquine diphosphate
+GO:0032727	chloroquine diphosphate
+GO:0032687	chloroquine diphosphate
+GO:0002270	chloroquine diphosphate
+GO:0034125	chloroquine diphosphate
+GO:0051452	chloroquine diphosphate
+GO:0019441	chloroquine diphosphate
+GO:0006915	Choline
+GO:1903428	Choline
+GO:0043065	Choline
+GO:0016042	Choline
+GO:1903409	Choline
+GO:0006749	Choline
+GO:0072593	Choline
+GO:0006954	Choline
+GO:0046466	Choline
+GO:0006874	Choline
+GO:0008217	Choline
+GO:0004784	Choline
+GO:0004602	Choline
+GO:0140042	Choline
+GO:0018158	Choline
+GO:0002523	Choline
+GO:0007283	Choline
+GO:1902512	Choline
+GO:1901670	Choline
+GO:0034440	Choline
+GO:0004069	Choline
+GO:0007204	Choline
+GO:0045454	Choline
+GO:1901671	Choline
+GO:0019432	Choline
+GO:0006695	Choline
+GO:0042593	Choline
+GO:0032148	Choline
+GO:0006641	Choline
+GO:0042632	Choline
+GO:0070328	Choline
+GO:0008610	Choline
+GO:0010884	Choline
+GO:0090200	Choline
+GO:0006809	Choline
+GO:0010890	Choline
+GO:0046620	Choline
+GO:0071466	Choline
+GO:0010940	Choline
+GO:0006123	Choline
+GO:2001170	Choline
+GO:0042133	Choline
+GO:1901687	Choline
+GO:0006631	Choline
+GO:1903284	Choline
+GO:0097722	Choline
+GO:0042755	Choline
+GO:0090023	Choline
+GO:0002693	Choline
+GO:0046621	Choline
+GO:0008291	Choline
+GO:0006306	Choline
+GO:0008152	Choline
+GO:0010424	Choline
+GO:0010886	Choline
+GO:0006865	Choline
+GO:0061024	Choline
+GO:0005978	Choline
+GO:0006629	Choline
+GO:0035265	Choline
+GO:0046622	Choline
+GO:0051000	Choline
+GO:0040018	Choline
+GO:0050996	Choline
+GO:0006664	Choline
+GO:0055089	Choline
+GO:0055088	Choline
+GO:1902957	Choline
+GO:0034767	Choline
+GO:0035435	Choline
+GO:0034361	Choline
+GO:0046339	Choline
+GO:0060576	Choline
+GO:0009437	Choline
+GO:0040015	Choline
+GO:0044238	Choline
+GO:0018212	Choline
+GO:0004697	Choline
+GO:0030900	Choline
+GO:0004575	Choline
+GO:0006556	Choline
+GO:0006692	Choline
+GO:0004021	Choline
+GO:0031323	Choline
+GO:2000193	Choline
+GO:0019695	Choline
+GO:0045792	Choline
+GO:0015871	Choline
+GO:0021766	Choline
+GO:0080090	Choline
+GO:0000002	Choline
+GO:0019249	Choline
+GO:0019222	Choline
+GO:0019216	Choline
+GO:0050667	Choline
+GO:0008283	Dactinomycin
+GO:0006915	Dactinomycin
+GO:0044237	Dactinomycin
+GO:0008219	Dactinomycin
+GO:1903428	Dactinomycin
+GO:0008285	Dactinomycin
+GO:0043065	Dactinomycin
+GO:1903409	Dactinomycin
+GO:0006749	Dactinomycin
+GO:0006750	Dactinomycin
+GO:0008217	Dactinomycin
+GO:0051881	Dactinomycin
+GO:0006974	Dactinomycin
+GO:0006309	Dactinomycin
+GO:0007049	Dactinomycin
+GO:0018158	Dactinomycin
+GO:0042310	Dactinomycin
+GO:1902512	Dactinomycin
+GO:0010918	Dactinomycin
+GO:0030154	Dactinomycin
+GO:0042307	Dactinomycin
+GO:0070782	Dactinomycin
+GO:0090200	Dactinomycin
+GO:1902679	Dactinomycin
+GO:0034620	Dactinomycin
+GO:0006096	Dactinomycin
+GO:0006355	Dactinomycin
+GO:0016567	Dactinomycin
+GO:0016043	Dactinomycin
+GO:0006865	Dactinomycin
+GO:1901030	Dactinomycin
+GO:0014829	Dactinomycin
+GO:0046323	Dactinomycin
+GO:0034063	Dactinomycin
+GO:1990414	Dactinomycin
+GO:0072089	Dactinomycin
+GO:0090305	Dactinomycin
+GO:0006779	Dactinomycin
+GO:1901798	Dactinomycin
+GO:0008283	Emodin
+GO:0006915	Emodin
+GO:0044237	Emodin
+GO:1903428	Emodin
+GO:0008284	Emodin
+GO:0043065	Emodin
+GO:0010942	Emodin
+GO:1903409	Emodin
+GO:0006749	Emodin
+GO:0072593	Emodin
+GO:0006954	Emodin
+GO:0006874	Emodin
+GO:0051881	Emodin
+GO:0004784	Emodin
+GO:0016049	Emodin
+GO:0004602	Emodin
+GO:0002523	Emodin
+GO:0007283	Emodin
+GO:1902512	Emodin
+GO:0004457	Emodin
+GO:1901670	Emodin
+GO:0010918	Emodin
+GO:0007204	Emodin
+GO:1900017	Emodin
+GO:0045454	Emodin
+GO:0042307	Emodin
+GO:0001836	Emodin
+GO:0000084	Emodin
+GO:0030263	Emodin
+GO:1903047	Emodin
+GO:0051882	Emodin
+GO:0090200	Emodin
+GO:0006805	Emodin
+GO:1903283	Emodin
+GO:0051092	Emodin
+GO:0010718	Emodin
+GO:0010940	Emodin
+GO:1901687	Emodin
+GO:0008206	Emodin
+GO:0006997	Emodin
+GO:1901318	Emodin
+GO:0032782	Emodin
+GO:0030186	Emodin
+GO:0042438	Emodin
+GO:0000737	Emodin
+GO:1990961	Emodin
+GO:0051560	Emodin
+GO:1900573	Emodin
+GO:0004679	Emodin
+GO:0007626	Emodin
+GO:2000391	Emodin
+GO:0045747	Emodin
+GO:0045746	Emodin
+GO:0015721	Emodin
+GO:0000266	Emodin
+GO:0039694	favipiravir
+GO:0016032	favipiravir
+GO:0019076	favipiravir
+GO:0048525	favipiravir
+GO:0034599	favipiravir
+GO:0019058	galidesivir
+GO:0039694	galidesivir
+GO:0019081	galidesivir
+GO:0019076	galidesivir
+GO:0019083	galidesivir
+GO:0006979	Heparin, Low-Molecular-Weight
+GO:0050901	Heparin, Low-Molecular-Weight
+GO:0006956	Heparin, Low-Molecular-Weight
+GO:0008283	Hydroxychloroquine
+GO:0006915	Hydroxychloroquine
+GO:0019058	Hydroxychloroquine
+GO:1903428	Hydroxychloroquine
+GO:0008284	Hydroxychloroquine
+GO:0008285	Hydroxychloroquine
+GO:0043065	Hydroxychloroquine
+GO:0046718	Hydroxychloroquine
+GO:0006914	Hydroxychloroquine
+GO:0030336	Hydroxychloroquine
+GO:1900017	Hydroxychloroquine
+GO:0042307	Hydroxychloroquine
+GO:0001836	Hydroxychloroquine
+GO:0004035	Hydroxychloroquine
+GO:0032760	Hydroxychloroquine
+GO:0070782	Hydroxychloroquine
+GO:0044790	Hydroxychloroquine
+GO:0051882	Hydroxychloroquine
+GO:0051092	Hydroxychloroquine
+GO:0032635	Hydroxychloroquine
+GO:0001649	Hydroxychloroquine
+GO:0006606	Hydroxychloroquine
+GO:0061739	Hydroxychloroquine
+GO:0006631	Hydroxychloroquine
+GO:0031410	Hydroxychloroquine
+GO:0075733	Hydroxychloroquine
+GO:0005769	Hydroxychloroquine
+GO:0097214	Hydroxychloroquine
+GO:0036019	Hydroxychloroquine
+GO:0007032	Hydroxychloroquine
+GO:0039690	Hydroxychloroquine
+GO:0007030	Hydroxychloroquine
+GO:0090400	Hydroxychloroquine
+GO:0016050	Hydroxychloroquine
+GO:0042110	Hydroxychloroquine
+GO:1901222	Hydroxychloroquine
+GO:0019080	Hydroxychloroquine
+GO:0000981	Hydroxychloroquine
+GO:0072595	Hydroxychloroquine
+GO:1905710	Hydroxychloroquine
+GO:0006083	Hydroxychloroquine
+GO:0006103	Hydroxychloroquine
+GO:0051283	Hydroxychloroquine
+GO:0006531	Hydroxychloroquine
+GO:0030282	Hydroxychloroquine
+GO:0042246	Hydroxychloroquine
+GO:0042180	Hydroxychloroquine
+GO:0086009	Hydroxychloroquine
+GO:0015942	Hydroxychloroquine
+GO:0008284	Interferon-alpha
+GO:0039690	Interferon-alpha
+GO:0060340	Interferon-alpha
+GO:0008283	Ivermectin
+GO:0008219	Ivermectin
+GO:1903428	Ivermectin
+GO:0008284	Ivermectin
+GO:0008285	Ivermectin
+GO:0043065	Ivermectin
+GO:0016042	Ivermectin
+GO:0046718	Ivermectin
+GO:0045930	Ivermectin
+GO:0006954	Ivermectin
+GO:0006750	Ivermectin
+GO:0016049	Ivermectin
+GO:0004364	Ivermectin
+GO:0030336	Ivermectin
+GO:0046034	Ivermectin
+GO:0004069	Ivermectin
+GO:0007204	Ivermectin
+GO:0042307	Ivermectin
+GO:0097327	Ivermectin
+GO:0019432	Ivermectin
+GO:0032148	Ivermectin
+GO:0044790	Ivermectin
+GO:0030199	Ivermectin
+GO:0030335	Ivermectin
+GO:0071466	Ivermectin
+GO:0006123	Ivermectin
+GO:0051726	Ivermectin
+GO:2001170	Ivermectin
+GO:0010917	Ivermectin
+GO:0097722	Ivermectin
+GO:0048525	Ivermectin
+GO:0055074	Ivermectin
+GO:0045919	Ivermectin
+GO:0006090	Ivermectin
+GO:0051561	Ivermectin
+GO:1902476	Ivermectin
+GO:0036269	Ivermectin
+GO:1904456	Ivermectin
+GO:2001171	Ivermectin
+GO:0004089	Ivermectin
+GO:1904972	Ivermectin
+GO:0009410	Ivermectin
+GO:0046427	Ivermectin
+GO:0045071	Ivermectin
+GO:0050850	Ivermectin
+GO:1905232	Ivermectin
+GO:0019085	Ivermectin
+GO:0019060	Ivermectin
+GO:0048874	Ivermectin
+GO:0071257	Ivermectin
+GO:0061052	Ivermectin
+GO:0002863	Ivermectin
+GO:0061370	Ivermectin
+GO:0008344	Ivermectin
+GO:1903077	Ivermectin
+GO:0043473	Ivermectin
+GO:0043950	Ivermectin
+GO:0046326	Ivermectin
+GO:0008068	Ivermectin
+GO:0004805	Ivermectin
+GO:0032793	Ivermectin
+GO:0016476	Ivermectin
+GO:0006607	Ivermectin
+GO:2000242	Ivermectin
+GO:0045820	Ivermectin
+GO:0019511	Ivermectin
+GO:2000481	Ivermectin
+GO:1904094	Ivermectin
+GO:1901529	Ivermectin
+GO:1904181	Ivermectin
+GO:0007192	Ivermectin
+GO:0008283	Lopinavir
+GO:0019058	Lopinavir
+GO:1903428	Lopinavir
+GO:0019079	Lopinavir
+GO:0060612	Lopinavir
+GO:1990959	Lopinavir
+GO:2000279	Lopinavir
+GO:0051726	Lopinavir
+GO:0008206	Lopinavir
+GO:0034116	Lopinavir
+GO:0001937	Lopinavir
+GO:1902603	Lopinavir
+GO:0010596	Lopinavir
+GO:0032782	Lopinavir
+GO:1904860	Lopinavir
+GO:0043408	Lopinavir
+GO:0008283	lopinavir-ritonavir drug combination
+GO:0019058	lopinavir-ritonavir drug combination
+GO:1903409	lopinavir-ritonavir drug combination
+GO:0090398	lopinavir-ritonavir drug combination
+GO:0006260	lopinavir-ritonavir drug combination
+GO:0006997	lopinavir-ritonavir drug combination
+GO:0008283	Losartan
+GO:0006915	Losartan
+GO:0044237	Losartan
+GO:0008219	Losartan
+GO:0006979	Losartan
+GO:0016042	Losartan
+GO:0006954	Losartan
+GO:0006750	Losartan
+GO:0046466	Losartan
+GO:0008217	Losartan
+GO:0004784	Losartan
+GO:0004602	Losartan
+GO:0006974	Losartan
+GO:0006309	Losartan
+GO:0018158	Losartan
+GO:0002523	Losartan
+GO:0042310	Losartan
+GO:0003094	Losartan
+GO:0030199	Losartan
+GO:0035812	Losartan
+GO:0035810	Losartan
+GO:0006809	Losartan
+GO:0046620	Losartan
+GO:0030595	Losartan
+GO:0050901	Losartan
+GO:0042311	Losartan
+GO:0016887	Losartan
+GO:0002027	Losartan
+GO:0042554	Losartan
+GO:0032731	Losartan
+GO:0009636	Losartan
+GO:0045907	Losartan
+GO:0003084	Losartan
+GO:0046209	Losartan
+GO:0032755	Losartan
+GO:0032693	Losartan
+GO:1904754	Losartan
+GO:1905517	Losartan
+GO:0090263	Losartan
+GO:0085029	Losartan
+GO:0002931	Losartan
+GO:1990776	Losartan
+GO:0046173	Losartan
+GO:1902073	Losartan
+GO:1903925	Losartan
+GO:0001837	Losartan
+GO:1905603	Losartan
+GO:0004565	Losartan
+GO:0042743	Losartan
+GO:0004032	Losartan
+GO:0042178	Losartan
+GO:0086097	Losartan
+GO:0098659	Losartan
+GO:0019058	Mefloquine
+GO:0008219	Mefloquine
+GO:0006979	Mefloquine
+GO:0007268	Mefloquine
+GO:0007009	Mefloquine
+GO:0006882	Mefloquine
+GO:1904456	Mefloquine
+GO:0008283	Melatonin
+GO:0006915	Melatonin
+GO:0044237	Melatonin
+GO:0008219	Melatonin
+GO:1903428	Melatonin
+GO:0006979	Melatonin
+GO:0008284	Melatonin
+GO:0008285	Melatonin
+GO:0043065	Melatonin
+GO:0010942	Melatonin
+GO:0016042	Melatonin
+GO:1903409	Melatonin
+GO:0006749	Melatonin
+GO:0045930	Melatonin
+GO:0072593	Melatonin
+GO:0006954	Melatonin
+GO:0006750	Melatonin
+GO:0046466	Melatonin
+GO:0006874	Melatonin
+GO:0008217	Melatonin
+GO:0051881	Melatonin
+GO:0004784	Melatonin
+GO:0016049	Melatonin
+GO:0004602	Melatonin
+GO:0006974	Melatonin
+GO:0006309	Melatonin
+GO:0006914	Melatonin
+GO:0007049	Melatonin
+GO:0140042	Melatonin
+GO:0018158	Melatonin
+GO:0002523	Melatonin
+GO:0007283	Melatonin
+GO:0042310	Melatonin
+GO:0070994	Melatonin
+GO:0004364	Melatonin
+GO:0008203	Melatonin
+GO:1901670	Melatonin
+GO:0030336	Melatonin
+GO:0046034	Melatonin
+GO:0010918	Melatonin
+GO:0034440	Melatonin
+GO:0004069	Melatonin
+GO:0030154	Melatonin
+GO:0045454	Melatonin
+GO:0006497	Melatonin
+GO:1901671	Melatonin
+GO:0000045	Melatonin
+GO:0001836	Melatonin
+GO:0030263	Melatonin
+GO:0042593	Melatonin
+GO:0032148	Melatonin
+GO:0006641	Melatonin
+GO:0042632	Melatonin
+GO:0070328	Melatonin
+GO:0030199	Melatonin
+GO:1903047	Melatonin
+GO:0060612	Melatonin
+GO:0090200	Melatonin
+GO:0006809	Melatonin
+GO:0060326	Melatonin
+GO:0010890	Melatonin
+GO:0046620	Melatonin
+GO:0046449	Melatonin
+GO:0019722	Melatonin
+GO:0045429	Melatonin
+GO:0006006	Melatonin
+GO:0050901	Melatonin
+GO:1901224	Melatonin
+GO:0002027	Melatonin
+GO:0001780	Melatonin
+GO:0007005	Melatonin
+GO:0042554	Melatonin
+GO:0030262	Melatonin
+GO:2001170	Melatonin
+GO:0042133	Melatonin
+GO:0032964	Melatonin
+GO:0005776	Melatonin
+GO:0035640	Melatonin
+GO:1903284	Melatonin
+GO:0097722	Melatonin
+GO:2000774	Melatonin
+GO:1901318	Melatonin
+GO:2001272	Melatonin
+GO:0010035	Melatonin
+GO:0033484	Melatonin
+GO:0009725	Melatonin
+GO:0007625	Melatonin
+GO:0007628	Melatonin
+GO:0019627	Melatonin
+GO:0008361	Melatonin
+GO:0044319	Melatonin
+GO:0070633	Melatonin
+GO:1902553	Melatonin
+GO:0000086	Melatonin
+GO:0036336	Melatonin
+GO:0006264	Melatonin
+GO:0034418	Melatonin
+GO:0030186	Melatonin
+GO:0016505	Melatonin
+GO:0022900	Melatonin
+GO:2001057	Melatonin
+GO:0055118	Melatonin
+GO:0046209	Melatonin
+GO:0010259	Melatonin
+GO:0002678	Melatonin
+GO:0006754	Melatonin
+GO:0036124	Melatonin
+GO:0042391	Melatonin
+GO:0043066	Melatonin
+GO:0051091	Melatonin
+GO:0031175	Melatonin
+GO:0030317	Melatonin
+GO:0050765	Melatonin
+GO:0007613	Melatonin
+GO:0070301	Melatonin
+GO:0051646	Melatonin
+GO:0034614	Melatonin
+GO:0035633	Melatonin
+GO:0045333	Melatonin
+GO:0050802	Melatonin
+GO:0007015	Melatonin
+GO:0071480	Melatonin
+GO:0048675	Melatonin
+GO:0033148	Melatonin
+GO:0048866	Melatonin
+GO:0000902	Melatonin
+GO:0090648	Melatonin
+GO:0008608	Melatonin
+GO:0002524	Melatonin
+GO:1902883	Melatonin
+GO:0002731	Melatonin
+GO:0090141	Melatonin
+GO:0010669	Melatonin
+GO:0010633	Melatonin
+GO:1902552	Melatonin
+GO:0061518	Melatonin
+GO:0008210	Melatonin
+GO:1902465	Melatonin
+GO:0060717	Melatonin
+GO:0008177	Melatonin
+GO:0046415	Melatonin
+GO:1903523	Melatonin
+GO:0060545	Melatonin
+GO:0009566	Melatonin
+GO:0070236	Melatonin
+GO:1902093	Melatonin
+GO:1903893	Melatonin
+GO:1903896	Melatonin
+GO:0072359	Melatonin
+GO:1903899	Melatonin
+GO:0060322	Melatonin
+GO:0010045	Melatonin
+GO:1903935	Melatonin
+GO:0001825	Melatonin
+GO:1900110	Melatonin
+GO:0009838	Melatonin
+GO:1900194	Melatonin
+GO:0040038	Melatonin
+GO:1905701	Melatonin
+GO:0001654	Melatonin
+GO:0001556	Melatonin
+GO:0001541	Melatonin
+GO:1990044	Melatonin
+GO:0070730	Melatonin
+GO:0051656	Melatonin
+GO:0032502	Melatonin
+GO:0032596	Melatonin
+GO:0070885	Melatonin
+GO:0051311	Melatonin
+GO:0051225	Melatonin
+GO:0090327	Melatonin
+GO:0006590	Melatonin
+GO:0042746	Melatonin
+GO:0004352	Melatonin
+GO:0032922	Melatonin
+GO:0042465	Melatonin
+GO:0042448	Melatonin
+GO:0006699	Melatonin
+GO:0042416	Melatonin
+GO:0030431	Melatonin
+GO:0030187	Melatonin
+GO:2000256	Melatonin
+GO:0007614	Melatonin
+GO:0007507	Melatonin
+GO:0007339	Melatonin
+GO:0000212	Melatonin
+GO:0090504	Melatonin
+GO:0050665	Melatonin
+GO:0007127	Melatonin
+GO:0007110	Melatonin
+GO:0008283	Mercaptopurine
+GO:0006915	Mercaptopurine
+GO:0044237	Mercaptopurine
+GO:0008219	Mercaptopurine
+GO:0010942	Mercaptopurine
+GO:1903409	Mercaptopurine
+GO:0045930	Mercaptopurine
+GO:0006974	Mercaptopurine
+GO:0019058	N(4)-hydroxycytidine
+GO:0019079	N(4)-hydroxycytidine
+GO:0039694	N(4)-hydroxycytidine
+GO:0016553	N(4)-hydroxycytidine
+GO:0008219	nafamostat
+GO:0046718	nafamostat
+GO:0016032	nafamostat
+GO:0010842	nafamostat
+GO:0060042	nafamostat
+GO:0008283	Nifedipine
+GO:0006915	Nifedipine
+GO:0008219	Nifedipine
+GO:1903428	Nifedipine
+GO:0006979	Nifedipine
+GO:0008285	Nifedipine
+GO:0010942	Nifedipine
+GO:0006749	Nifedipine
+GO:0072593	Nifedipine
+GO:0046466	Nifedipine
+GO:0006874	Nifedipine
+GO:0008217	Nifedipine
+GO:0051881	Nifedipine
+GO:0006309	Nifedipine
+GO:0007049	Nifedipine
+GO:0042310	Nifedipine
+GO:0070994	Nifedipine
+GO:0007204	Nifedipine
+GO:0090398	Nifedipine
+GO:0003094	Nifedipine
+GO:0035812	Nifedipine
+GO:0035810	Nifedipine
+GO:0060326	Nifedipine
+GO:0006805	Nifedipine
+GO:0046620	Nifedipine
+GO:0031987	Nifedipine
+GO:0019722	Nifedipine
+GO:0042311	Nifedipine
+GO:0002027	Nifedipine
+GO:0007268	Nifedipine
+GO:0070509	Nifedipine
+GO:0086003	Nifedipine
+GO:0045907	Nifedipine
+GO:0055074	Nifedipine
+GO:0003084	Nifedipine
+GO:0008654	Nifedipine
+GO:0022900	Nifedipine
+GO:0086004	Nifedipine
+GO:0055118	Nifedipine
+GO:0042391	Nifedipine
+GO:0046960	Nifedipine
+GO:0003085	Nifedipine
+GO:0043299	Nifedipine
+GO:0098719	Nifedipine
+GO:0050849	Nifedipine
+GO:0005980	Nifedipine
+GO:1904878	Nifedipine
+GO:0043697	Nifedipine
+GO:1902939	Nifedipine
+GO:0014809	Nifedipine
+GO:0097280	Nifedipine
+GO:1903169	Nifedipine
+GO:0008209	Nifedipine
+GO:0046460	Nifedipine
+GO:0010460	Nifedipine
+GO:0060048	Nifedipine
+GO:0060047	Nifedipine
+GO:0006094	Nifedipine
+GO:0051926	Nifedipine
+GO:0001508	Nifedipine
+GO:0051480	Nifedipine
+GO:0006811	Nifedipine
+GO:0006939	Nifedipine
+GO:0019373	Nifedipine
+GO:0033605	Nifedipine
+GO:0000278	Nifedipine
+GO:1903428	perfluorobutyric acid
+GO:0008284	perfluorobutyric acid
+GO:0006954	perfluorobutyric acid
+GO:0140042	perfluorobutyric acid
+GO:0008203	perfluorobutyric acid
+GO:0010884	perfluorobutyric acid
+GO:0006006	perfluorobutyric acid
+GO:1990959	perfluorobutyric acid
+GO:0001780	perfluorobutyric acid
+GO:0043029	perfluorobutyric acid
+GO:0045444	perfluorobutyric acid
+GO:0001782	perfluorobutyric acid
+GO:0008152	perfluorobutyric acid
+GO:0036145	perfluorobutyric acid
+GO:0048798	perfluorobutyric acid
+GO:0001866	perfluorobutyric acid
+GO:1900103	perfluorobutyric acid
+GO:0030520	perfluorobutyric acid
+GO:0031325	perfluorobutyric acid
+GO:0031324	perfluorobutyric acid
+GO:0019058	plitidepsin
+GO:0044237	plitidepsin
+GO:0019079	plitidepsin
+GO:0039694	plitidepsin
+GO:0019081	plitidepsin
+GO:0008283	remdesivir
+GO:0006915	remdesivir
+GO:0019058	remdesivir
+GO:0044237	remdesivir
+GO:0008219	remdesivir
+GO:0046718	remdesivir
+GO:0072593	remdesivir
+GO:0019079	remdesivir
+GO:0039694	remdesivir
+GO:0051882	remdesivir
+GO:0004197	remdesivir
+GO:0001824	remdesivir
+GO:0008283	Ribavirin
+GO:0006915	Ribavirin
+GO:0019058	Ribavirin
+GO:0044237	Ribavirin
+GO:0008219	Ribavirin
+GO:1903428	Ribavirin
+GO:0008285	Ribavirin
+GO:0006749	Ribavirin
+GO:0045930	Ribavirin
+GO:0019079	Ribavirin
+GO:0039694	Ribavirin
+GO:0016049	Ribavirin
+GO:0008203	Ribavirin
+GO:0000084	Ribavirin
+GO:0032760	Ribavirin
+GO:0046449	Ribavirin
+GO:0032729	Ribavirin
+GO:2000279	Ribavirin
+GO:0006631	Ribavirin
+GO:0008206	Ribavirin
+GO:0048525	Ribavirin
+GO:2000556	Ribavirin
+GO:1902679	Ribavirin
+GO:0046649	Ribavirin
+GO:0051354	Ribavirin
+GO:0002718	Ribavirin
+GO:0005975	Ribavirin
+GO:0032743	Ribavirin
+GO:0019752	Ribavirin
+GO:0006520	Ribavirin
+GO:0048598	Ribavirin
+GO:0034971	Ribavirin
+GO:0034969	Ribavirin
+GO:0052838	Ribavirin
+GO:0002923	Ribavirin
+GO:0008202	Ribavirin
+GO:0046483	Ribavirin
+GO:0009308	Ribavirin
+GO:0046108	Ribavirin
+GO:0046102	Ribavirin
+GO:0046100	Ribavirin
+GO:0043985	Ribavirin
+GO:0006000	Ribavirin
+GO:0006163	Ribavirin
+GO:0051892	Ribavirin
+GO:0006213	Ribavirin
+GO:0006220	Ribavirin
+GO:0006518	Ribavirin
+GO:0006600	Ribavirin
+GO:2001022	Ribavirin
+GO:0006693	Ribavirin
+GO:0042278	Ribavirin
+GO:0019858	Ribavirin
+GO:0019530	Ribavirin
+GO:1901732	Ribavirin
+GO:2000551	Ribavirin
+GO:2000554	Ribavirin
+GO:0003938	Ribavirin
+GO:2000726	Ribavirin
+GO:0019369	Ribavirin
+GO:0120252	Ribavirin
+GO:0008283	Ritonavir
+GO:0006915	Ritonavir
+GO:0019058	Ritonavir
+GO:0008219	Ritonavir
+GO:1903428	Ritonavir
+GO:0006979	Ritonavir
+GO:0016042	Ritonavir
+GO:1903409	Ritonavir
+GO:0019079	Ritonavir
+GO:0007049	Ritonavir
+GO:0070994	Ritonavir
+GO:0090398	Ritonavir
+GO:0019432	Ritonavir
+GO:0006695	Ritonavir
+GO:0060612	Ritonavir
+GO:0006805	Ritonavir
+GO:2000279	Ritonavir
+GO:0006260	Ritonavir
+GO:0006997	Ritonavir
+GO:0034116	Ritonavir
+GO:0001937	Ritonavir
+GO:1902603	Ritonavir
+GO:0010596	Ritonavir
+GO:0140645	Ritonavir
+GO:0019058	selamectin
+GO:0008285	selamectin
+GO:0043065	selamectin
+GO:0030336	selamectin
+GO:0097327	selamectin
+GO:1902476	selamectin
+GO:2001040	selamectin
+GO:0008283	Sirolimus
+GO:0006915	Sirolimus
+GO:0044237	Sirolimus
+GO:0008219	Sirolimus
+GO:1903428	Sirolimus
+GO:0006979	Sirolimus
+GO:0008284	Sirolimus
+GO:0008285	Sirolimus
+GO:0043065	Sirolimus
+GO:0010942	Sirolimus
+GO:0016042	Sirolimus
+GO:1903409	Sirolimus
+GO:0006749	Sirolimus
+GO:0045930	Sirolimus
+GO:0072593	Sirolimus
+GO:0006954	Sirolimus
+GO:0006750	Sirolimus
+GO:0008217	Sirolimus
+GO:0051881	Sirolimus
+GO:0016049	Sirolimus
+GO:0006974	Sirolimus
+GO:0006309	Sirolimus
+GO:0006914	Sirolimus
+GO:0007049	Sirolimus
+GO:0140042	Sirolimus
+GO:0018158	Sirolimus
+GO:0007283	Sirolimus
+GO:0042310	Sirolimus
+GO:0070994	Sirolimus
+GO:0004457	Sirolimus
+GO:0008203	Sirolimus
+GO:0046034	Sirolimus
+GO:0010918	Sirolimus
+GO:0034440	Sirolimus
+GO:0004069	Sirolimus
+GO:0030154	Sirolimus
+GO:0006497	Sirolimus
+GO:1901671	Sirolimus
+GO:0042307	Sirolimus
+GO:0097327	Sirolimus
+GO:0000045	Sirolimus
+GO:0090398	Sirolimus
+GO:0000084	Sirolimus
+GO:0004035	Sirolimus
+GO:0019432	Sirolimus
+GO:0006695	Sirolimus
+GO:0032148	Sirolimus
+GO:0006641	Sirolimus
+GO:0030199	Sirolimus
+GO:0060612	Sirolimus
+GO:0008610	Sirolimus
+GO:0010890	Sirolimus
+GO:0019722	Sirolimus
+GO:0010718	Sirolimus
+GO:1901224	Sirolimus
+GO:0001649	Sirolimus
+GO:0016887	Sirolimus
+GO:0006606	Sirolimus
+GO:0061909	Sirolimus
+GO:0007005	Sirolimus
+GO:0007009	Sirolimus
+GO:0061739	Sirolimus
+GO:0051726	Sirolimus
+GO:2000786	Sirolimus
+GO:0032964	Sirolimus
+GO:0005776	Sirolimus
+GO:0007033	Sirolimus
+GO:0010917	Sirolimus
+GO:0010508	Sirolimus
+GO:0086003	Sirolimus
+GO:0039693	Sirolimus
+GO:2000774	Sirolimus
+GO:0030730	Sirolimus
+GO:1905146	Sirolimus
+GO:1904646	Sirolimus
+GO:0007042	Sirolimus
+GO:0010507	Sirolimus
+GO:0046827	Sirolimus
+GO:0000423	Sirolimus
+GO:0098708	Sirolimus
+GO:0046649	Sirolimus
+GO:1904053	Sirolimus
+GO:0008361	Sirolimus
+GO:0034620	Sirolimus
+GO:0044319	Sirolimus
+GO:0045919	Sirolimus
+GO:0006096	Sirolimus
+GO:0070633	Sirolimus
+GO:0055069	Sirolimus
+GO:0006264	Sirolimus
+GO:0051561	Sirolimus
+GO:1905037	Sirolimus
+GO:0006355	Sirolimus
+GO:0044754	Sirolimus
+GO:0016567	Sirolimus
+GO:0008121	Sirolimus
+GO:0032848	Sirolimus
+GO:1904109	Sirolimus
+GO:0016477	Sirolimus
+GO:2001171	Sirolimus
+GO:0090400	Sirolimus
+GO:0061951	Sirolimus
+GO:0031398	Sirolimus
+GO:0048102	Sirolimus
+GO:0010886	Sirolimus
+GO:0016043	Sirolimus
+GO:0090261	Sirolimus
+GO:0005978	Sirolimus
+GO:0050729	Sirolimus
+GO:0000165	Sirolimus
+GO:0045766	Sirolimus
+GO:0007566	Sirolimus
+GO:0045727	Sirolimus
+GO:0030316	Sirolimus
+GO:0032967	Sirolimus
+GO:1901857	Sirolimus
+GO:0045669	Sirolimus
+GO:0008340	Sirolimus
+GO:0050890	Sirolimus
+GO:0046325	Sirolimus
+GO:0071498	Sirolimus
+GO:0048742	Sirolimus
+GO:1901097	Sirolimus
+GO:1902902	Sirolimus
+GO:0038202	Sirolimus
+GO:0043536	Sirolimus
+GO:0010887	Sirolimus
+GO:0010867	Sirolimus
+GO:1902794	Sirolimus
+GO:0010694	Sirolimus
+GO:0008343	Sirolimus
+GO:0035188	Sirolimus
+GO:0005222	Sirolimus
+GO:0035249	Sirolimus
+GO:0034197	Sirolimus
+GO:0010046	Sirolimus
+GO:0060134	Sirolimus
+GO:0140059	Sirolimus
+GO:0051932	Sirolimus
+GO:0006119	Sirolimus
+GO:1990138	Sirolimus
+GO:0001586	Sirolimus
+GO:1905278	Sirolimus
+GO:0051599	Sirolimus
+GO:0051457	Sirolimus
+GO:0018394	Sirolimus
+GO:0006601	Sirolimus
+GO:0006656	Sirolimus
+GO:0042541	Sirolimus
+GO:0005747	Sirolimus
+GO:0006911	Sirolimus
+GO:0005750	Sirolimus
+GO:0005753	Sirolimus
+GO:0030182	Sirolimus
+GO:2000065	Sirolimus
+GO:0039513	Sirolimus
+GO:0019674	Sirolimus
+GO:0045931	Sirolimus
+GO:2000386	Sirolimus
+GO:0007610	Sirolimus
+GO:0080182	Sirolimus
+GO:0045793	Sirolimus
+GO:0090403	Sirolimus
+GO:0050848	Sofosbuvir
+GO:0098662	Sofosbuvir
+GO:0046718	Teicoplanin
+GO:0019079	Teicoplanin
+GO:0060326	Teicoplanin
+GO:0030595	Teicoplanin
+GO:0019083	Teicoplanin
+GO:0042119	Teicoplanin
+GO:0008219	Tenofovir
+GO:0006979	Tenofovir
+GO:0010942	Tenofovir
+GO:0006749	Tenofovir
+GO:0007283	Tenofovir
+GO:0070994	Tenofovir
+GO:0004364	Tenofovir
+GO:0004457	Tenofovir
+GO:1901670	Tenofovir
+GO:0034440	Tenofovir
+GO:0003094	Tenofovir
+GO:0042593	Tenofovir
+GO:0042632	Tenofovir
+GO:0070328	Tenofovir
+GO:1903283	Tenofovir
+GO:0045429	Tenofovir
+GO:0006123	Tenofovir
+GO:2000774	Tenofovir
+GO:1901318	Tenofovir
+GO:0046621	Tenofovir
+GO:0006089	Tenofovir
+GO:0006121	Tenofovir
+GO:0051354	Tenofovir
+GO:0004855	Tenofovir
+GO:2000466	Tenofovir
+GO:0034418	Tenofovir
+GO:2001057	Tenofovir
+GO:0004000	Tenofovir
+GO:0010693	Tenofovir
+GO:0098727	Tenofovir
+GO:0050878	Tenofovir
+GO:0110111	Tenofovir
+GO:0006120	Tenofovir
+GO:0051353	Tenofovir
+GO:0051348	Tenofovir
+GO:0051347	Tenofovir
+GO:2001025	Tenofovir
+GO:0003939	Tenofovir
+GO:0008283	Toremifene
+GO:0046466	Toremifene
+GO:0007049	Toremifene
+GO:0019058	umifenovir
+GO:0008283	Zinc
+GO:0006915	Zinc
+GO:0044237	Zinc
+GO:0008219	Zinc
+GO:1903428	Zinc
+GO:0006979	Zinc
+GO:0008284	Zinc
+GO:0043065	Zinc
+GO:0010942	Zinc
+GO:0016042	Zinc
+GO:1903409	Zinc
+GO:0006749	Zinc
+GO:0045930	Zinc
+GO:0072593	Zinc
+GO:0006954	Zinc
+GO:0006750	Zinc
+GO:0046466	Zinc
+GO:0006874	Zinc
+GO:0008217	Zinc
+GO:0051881	Zinc
+GO:0004784	Zinc
+GO:0004602	Zinc
+GO:0006974	Zinc
+GO:0006309	Zinc
+GO:0018158	Zinc
+GO:0002523	Zinc
+GO:0007283	Zinc
+GO:1902512	Zinc
+GO:0070994	Zinc
+GO:0004364	Zinc
+GO:0004457	Zinc
+GO:1901670	Zinc
+GO:0046034	Zinc
+GO:0010918	Zinc
+GO:0034440	Zinc
+GO:0004069	Zinc
+GO:0007204	Zinc
+GO:1900017	Zinc
+GO:0045454	Zinc
+GO:0006497	Zinc
+GO:1901671	Zinc
+GO:0004035	Zinc
+GO:0006695	Zinc
+GO:0030263	Zinc
+GO:0032760	Zinc
+GO:0042593	Zinc
+GO:0042632	Zinc
+GO:0070328	Zinc
+GO:1903047	Zinc
+GO:0008610	Zinc
+GO:0006805	Zinc
+GO:1903283	Zinc
+GO:0031987	Zinc
+GO:0006006	Zinc
+GO:0007005	Zinc
+GO:0010940	Zinc
+GO:0032964	Zinc
+GO:0035640	Zinc
+GO:1903284	Zinc
+GO:0006882	Zinc
+GO:0032731	Zinc
+GO:0019233	Zinc
+GO:0090303	Zinc
+GO:0002693	Zinc
+GO:0005391	Zinc
+GO:0071578	Zinc
+GO:0006004	Zinc
+GO:0006054	Zinc
+GO:0055072	Zinc
+GO:0006089	Zinc
+GO:0006090	Zinc
+GO:0055069	Zinc
+GO:0006121	Zinc
+GO:0000086	Zinc
+GO:0008291	Zinc
+GO:0006306	Zinc
+GO:0004855	Zinc
+GO:2000466	Zinc
+GO:0008654	Zinc
+GO:0002534	Zinc
+GO:0042438	Zinc
+GO:0006754	Zinc
+GO:0004000	Zinc
+GO:0036124	Zinc
+GO:0004053	Zinc
+GO:0019318	Zinc
+GO:0006955	Zinc
+GO:0035556	Zinc
+GO:0043525	Zinc
+GO:0007249	Zinc
+GO:0046330	Zinc
+GO:0001974	Zinc
+GO:0043123	Zinc
+GO:0007611	Zinc
+GO:1901216	Zinc
+GO:0071577	Zinc
+GO:1901142	Zinc
+GO:0000723	Zinc
+GO:0071294	Zinc
+GO:0055073	Zinc
+GO:0055065	Zinc
+GO:0046961	Zinc
+GO:0034773	Zinc
+GO:1902600	Zinc
+GO:0061366	Zinc
+GO:0097502	Zinc
+GO:0060763	Zinc
+GO:0035622	Zinc
+GO:0047823	Zinc
+GO:0034101	Zinc
+GO:0060390	Zinc
+GO:0060317	Zinc
+GO:0035909	Zinc
+GO:0020027	Zinc
+GO:0040014	Zinc
+GO:1903966	Zinc
+GO:1903982	Zinc
+GO:0032464	Zinc
+GO:0032528	Zinc
+GO:1900535	Zinc
+GO:0070914	Zinc
+GO:0032680	Zinc
+GO:0090326	Zinc
+GO:0006490	Zinc
+GO:0004470	Zinc
+GO:0004450	Zinc
+GO:0004449	Zinc
+GO:0006633	Zinc
+GO:0006636	Zinc
+GO:0004177	Zinc
+GO:0004129	Zinc
+GO:0006829	Zinc
+GO:0006875	Zinc
+GO:0019853	Zinc
+GO:0006950	Zinc
+GO:0003105	Zinc
+GO:2000020	Zinc
+GO:0007612	Zinc
+GO:0015692	Zinc
+GO:2000403	Zinc
+GO:0015723	Zinc
+GO:0003994	Zinc
+GO:1901668	Zinc
+GO:1901666	Zinc
+GO:0000104	Zinc
+GO:1904146	Zinc
+GO:0033554	Zinc
+GO:0019218	Zinc
+GO:0098657	Zinc
+GO:0098711	Zinc
+GO:0008283	Zinc Sulfate
+GO:0006915	Zinc Sulfate
+GO:0044237	Zinc Sulfate
+GO:0008219	Zinc Sulfate
+GO:0006979	Zinc Sulfate
+GO:0016042	Zinc Sulfate
+GO:1903409	Zinc Sulfate
+GO:0045930	Zinc Sulfate
+GO:0072593	Zinc Sulfate
+GO:0006750	Zinc Sulfate
+GO:0046466	Zinc Sulfate
+GO:0051881	Zinc Sulfate
+GO:0004784	Zinc Sulfate
+GO:0016049	Zinc Sulfate
+GO:0004602	Zinc Sulfate
+GO:0006974	Zinc Sulfate
+GO:0006309	Zinc Sulfate
+GO:0140042	Zinc Sulfate
+GO:0018158	Zinc Sulfate
+GO:0004364	Zinc Sulfate
+GO:1901670	Zinc Sulfate
+GO:0034440	Zinc Sulfate
+GO:0045454	Zinc Sulfate
+GO:1901671	Zinc Sulfate
+GO:0000045	Zinc Sulfate
+GO:0001836	Zinc Sulfate
+GO:0004035	Zinc Sulfate
+GO:0030263	Zinc Sulfate
+GO:0008610	Zinc Sulfate
+GO:1903283	Zinc Sulfate
+GO:0046449	Zinc Sulfate
+GO:0070265	Zinc Sulfate
+GO:0042133	Zinc Sulfate
+GO:1901687	Zinc Sulfate
+GO:0007033	Zinc Sulfate
+GO:0035640	Zinc Sulfate
+GO:0006882	Zinc Sulfate
+GO:0005391	Zinc Sulfate
+GO:0010035	Zinc Sulfate
+GO:0033484	Zinc Sulfate
+GO:0009725	Zinc Sulfate
+GO:0071578	Zinc Sulfate
+GO:0007625	Zinc Sulfate
+GO:0007628	Zinc Sulfate
+GO:0019627	Zinc Sulfate
+GO:0006004	Zinc Sulfate
+GO:0006054	Zinc Sulfate
+GO:1902553	Zinc Sulfate
+GO:0010424	Zinc Sulfate
+GO:0010259	Zinc Sulfate
+GO:0002678	Zinc Sulfate
+GO:0004053	Zinc Sulfate
+GO:0019318	Zinc Sulfate
+GO:0006909	Zinc Sulfate
+GO:0055070	Zinc Sulfate
+GO:1990834	Zinc Sulfate
+GO:0070665	Zinc Sulfate
+GO:0042048	Zinc Sulfate

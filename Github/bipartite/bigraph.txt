@@ -1,0 +1,53 @@
+glycerophosphoethanolamine	IL6
+1-(1-enyl-palmitoyl)-GPE (P-16:0)*	IL6
+1-(1-enyl-stearoyl)-GPE (P-18:0)*	IL6
+1-margaroyl-GPC (17:0)	IL6
+1-linoleoyl-GPE (18:2)*	IL6
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	IL6
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*	IL6
+1-palmitoleoyl-GPC (16:1)*	IL6
+1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*	IL6
+1-stearoyl-GPC (18:0)	IL6
+glycerophosphorylcholine (GPC)	IL6
+2-palmitoyl-GPC (16:0)*	IL6
+1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*	IL6
+1-oleoyl-GPC (18:1)	IL6
+retinol (Vitamin A)	IL6
+1-myristoyl-GPC (14:0)	IL6
+1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*	IL6
+1-palmityl-GPC (O-16:0)	IL6
+1-palmitoyl-GPC (16:0)	IL6
+1-pentadecanoyl-GPC (15:0)*	IL6
+9,10-DiHOME	IL6
+1-(1-enyl-oleoyl)-GPE (P-18:1)*	IL6
+1-stearyl-GPC (O-18:0)*	IL6
+1-linoleoyl-GPC (18:2)	IL6
+2-linoleoyl-GPC (18:2)*	IL6
+1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*	IL6
+sphingomyelin (d18:2/14:0, d18:1/14:1)*	IL6
+1-dihomo-linolenoyl-GPC (20:3n3 or 6)*	IL6
+1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*	IL6
+1-adrenoyl-GPC (22:4)*	IL6
+6-bromotryptophan	IL6
+1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*	IL6
+retinal	IL6
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*	IL6
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*	IL6
+1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*	IL6
+1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*	IL6
+taurine	IL6
+serotonin	IL6
+1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*	IL6
+acetoacetate	IL6
+1-eicosenoyl-GPC (20:1)*	IL6
+proline	IL6
+1-arachidonoyl-GPE (20:4n6)*	IL6
+1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*	IL6
+glutamine conjugate of C6H10O2 (2)*	IL6
+flavin adenine dinucleotide (FAD)	IL6
+1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*	IL6
+citrulline	IL6
+1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*	IL6
+5-methyluridine (ribothymidine)	IL6
+C-glycosyltryptophan	CLEC4A
+C-glycosyltryptophan	IL15RA
