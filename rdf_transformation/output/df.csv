@@ -1,0 +1,868 @@
+0,1,2,3
+ABCB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000927,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+ABCB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000927,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ABCB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000927,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+ADM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001124,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+ANXA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001002857,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+APOE,https://www.ncbi.nlm.nih.gov/nuccore/NM_000041,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+ATP6AP2,https://www.ncbi.nlm.nih.gov/nuccore/NM_005765,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+B2M,https://www.ncbi.nlm.nih.gov/nuccore/NM_004048_2,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+B2M,https://www.ncbi.nlm.nih.gov/nuccore/NM_004048_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+B2M,https://www.ncbi.nlm.nih.gov/nuccore/NM_004048_2,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+C4BPB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000716,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+CA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001128829,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+CA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000067,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CASP8,https://www.ncbi.nlm.nih.gov/nuccore/NM_001080124,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CCL11,,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+CCL11,,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002982,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002982,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+CCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002982,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002982,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CCL20,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130046,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+CCL20,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130046,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002983_2,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002983_2,CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,SOD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000636
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL1A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000575
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TNF,https://www.ncbi.nlm.nih.gov/nuccore/NM_000594_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL8,https://www.ncbi.nlm.nih.gov/nuccore/NM_000584
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IFNG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000619
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD4,https://www.ncbi.nlm.nih.gov/nuccore/NM_000616
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL10RA,https://www.ncbi.nlm.nih.gov/nuccore/NM_001558
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL1RN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000577
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001565
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CTSL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001257971
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,PDCD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_005018_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,NFKB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165412
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002416
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,S100A12,https://www.ncbi.nlm.nih.gov/nuccore/NM_005621
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_000879
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL11,https://www.ncbi.nlm.nih.gov/nuccore/NM_001302123
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD83,https://www.ncbi.nlm.nih.gov/nuccore/NM_001040280
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MMP12,
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TNFSF10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001190942
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,PLAU,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145031
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ACOD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001258406
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ADORA2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000675
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ADSL,https://www.ncbi.nlm.nih.gov/nuccore/NM_000026
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ARNTL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001030272
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ARRB2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001257328
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ASGR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001181
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,BCL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130845
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,BIRC3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,BTK,https://www.ncbi.nlm.nih.gov/nuccore/NM_000061
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CCL18,https://www.ncbi.nlm.nih.gov/nuccore/NM_002988_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL1B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000576
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002089
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,LCK,https://www.ncbi.nlm.nih.gov/nuccore/NM_001042771
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MEFV,https://www.ncbi.nlm.nih.gov/nuccore/NM_000243
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD8A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145873
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,GZMB,https://www.ncbi.nlm.nih.gov/nuccore/NM_001346011
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,EPCAM,https://www.ncbi.nlm.nih.gov/nuccore/NM_002354
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,FCGR3A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000569
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,PRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001083116
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,FCGR3B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000570
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD14,https://www.ncbi.nlm.nih.gov/nuccore/NM_000591
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,FCER1G,https://www.ncbi.nlm.nih.gov/nuccore/NM_004106
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,LYZ,https://www.ncbi.nlm.nih.gov/nuccore/NM_000239
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TLR4,https://www.ncbi.nlm.nih.gov/nuccore/NM_003266
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CCL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_001278736_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MS4A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_021950
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,STAT3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001369512
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,PTPN6,https://www.ncbi.nlm.nih.gov/nuccore/NM_002831
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,JAK2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001322194
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CCR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001295
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD163,https://www.ncbi.nlm.nih.gov/nuccore/NM_001370145
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCR6,https://www.ncbi.nlm.nih.gov/nuccore/NM_006564
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MRC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002438
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TLR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001318787
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001126102
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,S100A9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002965
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CYTIP,https://www.ncbi.nlm.nih.gov/nuccore/NM_004288
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD74,https://www.ncbi.nlm.nih.gov/nuccore/NM_001025158
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,OASL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001261825
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IFIT3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001031683
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,KRT10,https://www.ncbi.nlm.nih.gov/nuccore/NM_000421
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,UBE2L6,https://www.ncbi.nlm.nih.gov/nuccore/NM_004223
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TAP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000593_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,LY6E,https://www.ncbi.nlm.nih.gov/nuccore/NM_001127213_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IFIT1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001270927
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,SLC3A2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001012662
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCR4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001008540
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MAPK3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001040056
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,RAF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354689
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,NFKBIA,https://www.ncbi.nlm.nih.gov/nuccore/NM_020529
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD69,https://www.ncbi.nlm.nih.gov/nuccore/NM_001781
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,LGALS3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001357678
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CYBB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000397
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD53,https://www.ncbi.nlm.nih.gov/nuccore/NM_000560
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,DUSP5,https://www.ncbi.nlm.nih.gov/nuccore/NM_004419
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001328609
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CD3D,https://www.ncbi.nlm.nih.gov/nuccore/NM_000732
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MT2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_005953
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,TCN2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000355
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,SLC1A5,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145144
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ENTPD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001098175
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,WAS,https://www.ncbi.nlm.nih.gov/nuccore/NM_000377
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MAPK14,https://www.ncbi.nlm.nih.gov/nuccore/NM_001315
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,F3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001178096
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ICAM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000201
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CTSB,https://www.ncbi.nlm.nih.gov/nuccore/NM_001317237_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HLA-DRA,https://www.ncbi.nlm.nih.gov/nuccore/NM_019111_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HLA-F,https://www.ncbi.nlm.nih.gov/nuccore/NM_001098478_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354924
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HSPA5,https://www.ncbi.nlm.nih.gov/nuccore/NM_005347
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CTSC,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114173
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,ITGB2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000211
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CCL8,https://www.ncbi.nlm.nih.gov/nuccore/NM_005623
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IRF9,https://www.ncbi.nlm.nih.gov/nuccore/NM_006084_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CCL7,https://www.ncbi.nlm.nih.gov/nuccore/NM_006273
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CREM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267562
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,JUNB,https://www.ncbi.nlm.nih.gov/nuccore/NM_002229
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HLA-DPA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001242524_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HLA-DPB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002121_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,FOS,https://www.ncbi.nlm.nih.gov/nuccore/NM_005252
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,GPR183,https://www.ncbi.nlm.nih.gov/nuccore/NM_004951
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,MYD88,https://www.ncbi.nlm.nih.gov/nuccore/NM_001172566
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002090
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,CXCR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168298
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HLA-E,https://www.ncbi.nlm.nih.gov/nuccore/NM_005516_2
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,IFITM2,https://www.ncbi.nlm.nih.gov/nuccore/NM_006435
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,JUN,https://www.ncbi.nlm.nih.gov/nuccore/NM_002228
+CCL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002984_2,HSD17B6,https://www.ncbi.nlm.nih.gov/nuccore/NM_003725
+CCL7,https://www.ncbi.nlm.nih.gov/nuccore/NM_006273,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CCL8,https://www.ncbi.nlm.nih.gov/nuccore/NM_005623,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CD14,https://www.ncbi.nlm.nih.gov/nuccore/NM_000591,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD163,https://www.ncbi.nlm.nih.gov/nuccore/NM_001370145,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CD83,https://www.ncbi.nlm.nih.gov/nuccore/NM_001040280,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CD83,https://www.ncbi.nlm.nih.gov/nuccore/NM_001040280,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CD83,https://www.ncbi.nlm.nih.gov/nuccore/NM_001040280,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CFP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145252,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CFP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145252,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CTSL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001257971,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CTSL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001257971,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,NFKB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165412
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,JUN,https://www.ncbi.nlm.nih.gov/nuccore/NM_002228
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002416
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,THBD,https://www.ncbi.nlm.nih.gov/nuccore/NM_000361
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL33,https://www.ncbi.nlm.nih.gov/nuccore/NM_001199640
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PGF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001207012
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL11,https://www.ncbi.nlm.nih.gov/nuccore/NM_001302123
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PLAU,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145031
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MMP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145938
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,LRP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002332
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PDGFB,https://www.ncbi.nlm.nih.gov/nuccore/NM_002608
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,OSM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001319108
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,KITLG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000899
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_002994
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,STC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003155
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,LYN,https://www.ncbi.nlm.nih.gov/nuccore/NM_001111097
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL12,https://www.ncbi.nlm.nih.gov/nuccore/NM_000609
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ABCC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_004996_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ACKR3,https://www.ncbi.nlm.nih.gov/nuccore/NM_020311
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ADRA2B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000682
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,BCL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130845
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,BIRC3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CAV1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001172895
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CCL18,https://www.ncbi.nlm.nih.gov/nuccore/NM_002988_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CCL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_001278736_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CCR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001295
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CD69,https://www.ncbi.nlm.nih.gov/nuccore/NM_001781
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CREM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267562
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CTSC,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114173
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL1B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000576
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002089
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL8,https://www.ncbi.nlm.nih.gov/nuccore/NM_000584
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ICAM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000201
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,DPP4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001935
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001565
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,RTN2,https://www.ncbi.nlm.nih.gov/nuccore/NM_005619
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,STAT3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001369512
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354924
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PTGS2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000963
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IFITM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003641
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,LPAR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_004720
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MRC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002438
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SELENOP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001085486
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCR6,https://www.ncbi.nlm.nih.gov/nuccore/NM_006564
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ITGAX,https://www.ncbi.nlm.nih.gov/nuccore/NM_000887
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,TLR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001318787
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,TAP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000593_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CYTIP,https://www.ncbi.nlm.nih.gov/nuccore/NM_004288
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PF4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363352
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,KDM5B,https://www.ncbi.nlm.nih.gov/nuccore/NM_001314042
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL1R1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000877
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,S100A9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002965
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ITGB3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000212
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCR3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001142797
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,OPRD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000911
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCR4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001008540
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,NFKBIA,https://www.ncbi.nlm.nih.gov/nuccore/NM_020529
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SLC14A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001128588
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168298
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,TNFSF10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001190942
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,FOS,https://www.ncbi.nlm.nih.gov/nuccore/NM_005252
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PLXNA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_025179
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ELF3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114309
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002090
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MT2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_005953
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,JUNB,https://www.ncbi.nlm.nih.gov/nuccore/NM_002229
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,VIPR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001251882
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,OPRM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000914
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MSR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363744
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IFITM2,https://www.ncbi.nlm.nih.gov/nuccore/NM_006435
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SOD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000636
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ZFP36,https://www.ncbi.nlm.nih.gov/nuccore/NM_003407
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,STT3A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001278503
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001251825
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MAPK14,https://www.ncbi.nlm.nih.gov/nuccore/NM_001315
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,S1PR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001320730
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PTGS1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000962
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SLC2A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_006516
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,TIMP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003254
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IRF8,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363907
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,RNASE1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002933
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,LCN2,https://www.ncbi.nlm.nih.gov/nuccore/NM_005564
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,KIT,https://www.ncbi.nlm.nih.gov/nuccore/NM_000222
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,XCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002995
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,NFKB2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001077494
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SDC2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002998
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,RELB,https://www.ncbi.nlm.nih.gov/nuccore/NM_006509
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,RELA,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145138
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MDM2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145337
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL15,https://www.ncbi.nlm.nih.gov/nuccore/NM_000585
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PMAIP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_021127
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PSEN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000021
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PFKFB3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145443
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,S100A4,https://www.ncbi.nlm.nih.gov/nuccore/NM_002961
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PLAUR,https://www.ncbi.nlm.nih.gov/nuccore/NM_001005376
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,SDCBP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001007067
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,TCN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001062
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,PTEN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000314_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,CXCR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000634
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,LPO,https://www.ncbi.nlm.nih.gov/nuccore/NM_001160102
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IL3RA,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267713_2
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MMP2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001127891
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,KDR,https://www.ncbi.nlm.nih.gov/nuccore/NM_002253
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,GJA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000165
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,GCLC,https://www.ncbi.nlm.nih.gov/nuccore/NM_001197115
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,EPX,https://www.ncbi.nlm.nih.gov/nuccore/NM_000502
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ME1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002395
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,ITGAV,https://www.ncbi.nlm.nih.gov/nuccore/NM_001144999
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MAF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001031804
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MAN2A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002372
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MSN,https://www.ncbi.nlm.nih.gov/nuccore/NM_002444
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IRF6,https://www.ncbi.nlm.nih.gov/nuccore/NM_001206696
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,KRT5,https://www.ncbi.nlm.nih.gov/nuccore/NM_000424
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,MCAM,https://www.ncbi.nlm.nih.gov/nuccore/NM_006500
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,IDO1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002164
+CXCL10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001565,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CXCL10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001565,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CXCL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_002994,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+CXCL8,https://www.ncbi.nlm.nih.gov/nuccore/NM_000584,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+FCGR3A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000569,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+FCGR3A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000569,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FGF2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001361665,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+HLA-A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001242758_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001242758_2,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+HLA-C,https://www.ncbi.nlm.nih.gov/nuccore/NM_001243042_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-C,https://www.ncbi.nlm.nih.gov/nuccore/NM_001243042_2,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+HSPA5,https://www.ncbi.nlm.nih.gov/nuccore/NM_005347,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+ICAM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000201,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IFNG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000619,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IGFBP3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000598,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IGFBP7,https://www.ncbi.nlm.nih.gov/nuccore/NM_001253835,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGFBP7,https://www.ncbi.nlm.nih.gov/nuccore/NM_001253835,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL10,https://www.ncbi.nlm.nih.gov/nuccore/NM_000572,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL10RA,https://www.ncbi.nlm.nih.gov/nuccore/NM_001558,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL13,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354991,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL16,https://www.ncbi.nlm.nih.gov/nuccore/NM_001172128,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL17A,https://www.ncbi.nlm.nih.gov/nuccore/NM_002190,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL17A,https://www.ncbi.nlm.nih.gov/nuccore/NM_002190,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL18,https://www.ncbi.nlm.nih.gov/nuccore/NM_001243211,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL18R1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001282399,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL1A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000575,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL1RN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000577,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL1RN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000577,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000586,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,SOD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000636
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,TNF,https://www.ncbi.nlm.nih.gov/nuccore/NM_000594_2
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,LAMP3,https://www.ncbi.nlm.nih.gov/nuccore/NM_014398
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,NFKB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165412
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,PLAU,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145031
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MMP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145938
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,OSM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001319108
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,THPO,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,PDGFB,https://www.ncbi.nlm.nih.gov/nuccore/NM_002608
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,STC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003155
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,KITLG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000899
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MGMT,https://www.ncbi.nlm.nih.gov/nuccore/NM_002412
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ACSM3,https://www.ncbi.nlm.nih.gov/nuccore/NM_005622
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ADORA2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000675
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ARNTL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001030272
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,BCL2A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114735
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,BCL2L1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001191
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,BCL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130845
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,BDNF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001143805
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,BIRC3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CASP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001223
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CCL16,https://www.ncbi.nlm.nih.gov/nuccore/NM_004590_2
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CCL18,https://www.ncbi.nlm.nih.gov/nuccore/NM_002988_2
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CD53,https://www.ncbi.nlm.nih.gov/nuccore/NM_000560
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CD69,https://www.ncbi.nlm.nih.gov/nuccore/NM_001781
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CIITA,https://www.ncbi.nlm.nih.gov/nuccore/NM_000246
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CREM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267562
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CSF3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000759
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CXCL2,https://www.ncbi.nlm.nih.gov/nuccore/NM_002089
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CXCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002090
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,CXCR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168298
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,DUSP5,https://www.ncbi.nlm.nih.gov/nuccore/NM_004419
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,EDN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168319
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ELAVL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001419
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ENTPD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001098175
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,F3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001178096
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,FBN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000138
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,FCER1G,https://www.ncbi.nlm.nih.gov/nuccore/NM_004106
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,FCGR3B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000570
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,FOS,https://www.ncbi.nlm.nih.gov/nuccore/NM_005252
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,G6PD,https://www.ncbi.nlm.nih.gov/nuccore/NM_000402
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,GADD45B,https://www.ncbi.nlm.nih.gov/nuccore/NM_015675
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,GJA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000165
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,GPR183,https://www.ncbi.nlm.nih.gov/nuccore/NM_004951
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,HIF1A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001243084
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,HLA-DPA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001242524_2
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFIT2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001547
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFIT3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001031683
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFITM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003641
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFITM2,https://www.ncbi.nlm.nih.gov/nuccore/NM_006435
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFNAR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000874
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFNB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002176
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IFNGR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001329128_2
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IGF2R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000876
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL15,https://www.ncbi.nlm.nih.gov/nuccore/NM_000585
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL1B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000576
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL4,https://www.ncbi.nlm.nih.gov/nuccore/NM_000589
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,LCK,https://www.ncbi.nlm.nih.gov/nuccore/NM_001042771
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ITGAM,https://www.ncbi.nlm.nih.gov/nuccore/NM_000632
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MS4A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_021950
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,JAK1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001320923
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL6ST,https://www.ncbi.nlm.nih.gov/nuccore/NM_001190981
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354924
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,JAK2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001322194
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,LYZ,https://www.ncbi.nlm.nih.gov/nuccore/NM_000239
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,JUN,https://www.ncbi.nlm.nih.gov/nuccore/NM_002228
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MT2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_005953
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001197320
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,JUNB,https://www.ncbi.nlm.nih.gov/nuccore/NM_002229
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MSR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363744
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MSX2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363626
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,LGALS3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001357678
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ITGAL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114380
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MARK3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001128918
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,JUND,https://www.ncbi.nlm.nih.gov/nuccore/NM_001286968
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ITGAV,https://www.ncbi.nlm.nih.gov/nuccore/NM_001144999
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,KCNMA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001014797
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ITGA5,https://www.ncbi.nlm.nih.gov/nuccore/NM_002205
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MAF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001031804
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MFGE8,https://www.ncbi.nlm.nih.gov/nuccore/NM_001114614
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,ME1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002395
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,MCAM,https://www.ncbi.nlm.nih.gov/nuccore/NM_006500
+IL7,https://www.ncbi.nlm.nih.gov/nuccore/NM_000880,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LAMP3,https://www.ncbi.nlm.nih.gov/nuccore/NM_014398,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LTF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001199149,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LYZ,https://www.ncbi.nlm.nih.gov/nuccore/NM_000239,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+NCAM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000615,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+PDCD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_005018_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+PLAU,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145031,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+PLG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000301,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+SERPINC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000488,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SERPINF2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000934_2,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+SERPING1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000062,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SOD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_000636,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TNFSF14,https://www.ncbi.nlm.nih.gov/nuccore/NM_001376887,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+YWHAE,https://www.ncbi.nlm.nih.gov/nuccore/NM_006761_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ADAM10,https://www.ncbi.nlm.nih.gov/nuccore/NM_001110,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ADAM17,https://www.ncbi.nlm.nih.gov/nuccore/NM_003183,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+ADORA2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_000675,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ARNTL,https://www.ncbi.nlm.nih.gov/nuccore/NM_001030272,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ARRB2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001257328,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+BCL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_001130845,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+BDNF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001143805,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+BIRC3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001165,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+BTK,https://www.ncbi.nlm.nih.gov/nuccore/NM_000061,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CASP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001223,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CCL5,https://www.ncbi.nlm.nih.gov/nuccore/NM_001278736_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CCR1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001295,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD19,https://www.ncbi.nlm.nih.gov/nuccore/NM_001178098,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD19,https://www.ncbi.nlm.nih.gov/nuccore/NM_001178098,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+CD2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001328609,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD3D,https://www.ncbi.nlm.nih.gov/nuccore/NM_000732,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD53,https://www.ncbi.nlm.nih.gov/nuccore/NM_000560,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD69,https://www.ncbi.nlm.nih.gov/nuccore/NM_001781,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CD82,https://www.ncbi.nlm.nih.gov/nuccore/NM_001024844,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001006658,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CREM,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267562,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CSF3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000759,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CTSB,https://www.ncbi.nlm.nih.gov/nuccore/NM_001317237_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CTSB,https://www.ncbi.nlm.nih.gov/nuccore/NM_001317237_2,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+CXCL3,https://www.ncbi.nlm.nih.gov/nuccore/NM_002090,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CXCR2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168298,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+DPP4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001935,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+EDN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001168319,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ELAVL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001419,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ENTPD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001098175,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+F8,https://www.ncbi.nlm.nih.gov/nuccore/NM_000132,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FCER1G,https://www.ncbi.nlm.nih.gov/nuccore/NM_004106,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FCGR3B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000570,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FOS,https://www.ncbi.nlm.nih.gov/nuccore/NM_005252,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+GPR183,https://www.ncbi.nlm.nih.gov/nuccore/NM_004951,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HIF1A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001243084,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-DPA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001242524_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-DPB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002121_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-DRA,https://www.ncbi.nlm.nih.gov/nuccore/NM_019111_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-E,https://www.ncbi.nlm.nih.gov/nuccore/NM_005516_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-F,https://www.ncbi.nlm.nih.gov/nuccore/NM_001098478_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HMGB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001313892,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IFITM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003641,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IK,https://www.ncbi.nlm.nih.gov/nuccore/NM_006083,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL1B,https://www.ncbi.nlm.nih.gov/nuccore/NM_000576,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL1R2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001261419,IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565
+IL2RA,https://www.ncbi.nlm.nih.gov/nuccore/NM_000417,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL3RA,https://www.ncbi.nlm.nih.gov/nuccore/NM_001267713_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,JAK1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001320923
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,STAT1,https://www.ncbi.nlm.nih.gov/nuccore/NM_007315
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,IL6ST,https://www.ncbi.nlm.nih.gov/nuccore/NM_001190981
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,STAT3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001369512
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,PTPN6,https://www.ncbi.nlm.nih.gov/nuccore/NM_002831
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,NELFCD,https://www.ncbi.nlm.nih.gov/nuccore/NM_198976
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,RTN4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001321859
+IL6R,https://www.ncbi.nlm.nih.gov/nuccore/NM_000565,JAK2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001322194
+IL6ST,https://www.ncbi.nlm.nih.gov/nuccore/NM_001190981,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MS4A1,https://www.ncbi.nlm.nih.gov/nuccore/NM_021950
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,JAK1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001320923
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MAPK1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002745
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,IRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001354924
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,PTPN6,https://www.ncbi.nlm.nih.gov/nuccore/NM_002831
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,PRF1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001083116
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,SH2D3C,https://www.ncbi.nlm.nih.gov/nuccore/NM_001142531
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,RTN1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363702
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,SPECC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001033553
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,TNFRSF25,https://www.ncbi.nlm.nih.gov/nuccore/NM_001039664
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MYD88,https://www.ncbi.nlm.nih.gov/nuccore/NM_001172566
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,LGALS3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001357678
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MATK,https://www.ncbi.nlm.nih.gov/nuccore/NM_002378
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,WAS,https://www.ncbi.nlm.nih.gov/nuccore/NM_000377
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,P2RX7,https://www.ncbi.nlm.nih.gov/nuccore/NM_002562
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,NFKBIA,https://www.ncbi.nlm.nih.gov/nuccore/NM_020529
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,VIM,https://www.ncbi.nlm.nih.gov/nuccore/NM_003380
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,OPRM1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000914
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MSX2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363626
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,PIK3C2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_001321378
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,JAK2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001322194
+IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185,MT2A,https://www.ncbi.nlm.nih.gov/nuccore/NM_005953
+glycerate,,tartronate (hydroxymalonate),https://www.ebi.ac.uk/chebi/17649
+oxalate (ethanedioate),https://www.ebi.ac.uk/chebi/30623,tartronate (hydroxymalonate),https://www.ebi.ac.uk/chebi/17649
+"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d17:2/16:0, d18:2/15:0)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d18:1/19:0, d19:1/18:0)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d18:2/14:0, d18:1/14:1)*",,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+sphingomyelin (d18:2/18:1)*,,"sphingomyelin (d18:2/21:0, d16:2/23:0)*",
+"sphingomyelin (d18:2/21:0, d16:2/23:0)*",,tricosanoyl sphingomyelin (d18:1/23:0)*,
+"sphingomyelin (d18:2/21:0, d16:2/23:0)*",,"sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*",
+"sphingomyelin (d18:2/21:0, d16:2/23:0)*",,sphingomyelin (d18:2/23:1)*,
+sulfate of piperine metabolite C16H19NO3 (2)*,,sulfate of piperine metabolite C18H21NO3 (1)*,
+sulfate of piperine metabolite C16H19NO3 (3)*,,sulfate of piperine metabolite C18H21NO3 (1)*,
+tartronate (hydroxymalonate),https://www.ebi.ac.uk/chebi/17649,threonate,https://www.ebi.ac.uk/chebi/15243
+DG 12:0_14:0_RT_21.212,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 18:2_RT_11.045,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 18:2_RT_11.623,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:2_RT_12.854,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:3_RT_11.724,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:3_RT_11.872,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:3_RT_12.285,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:4_RT_10.912,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 20:4_RT_11.056,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 22:4_RT_12.289,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 22:4_RT_12.605,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 22:5_RT_11.654,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 22:5_RT_12.087,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPC 22:6_RT_10.886,,Unknown_mz_765.60468_+_RT_16.383,
+LysoPI 16:0_RT_11.045,,Unknown_mz_765.60468_+_RT_16.383,
+TG 10:0_15:0_16:0_RT_28.707,,Unknown_mz_766.69232_+_RT_28.305,
+TG 12:0_12:0_14:0_RT_27.15,,Unknown_mz_766.69232_+_RT_28.305,
+TG 12:0_12:0_18:2_RT_27.539,,Unknown_mz_766.69232_+_RT_28.305,
+TG 12:0_12:0_18:3_RT_26.893,,Unknown_mz_766.69232_+_RT_28.305,
+TG 12:0_16:1_16:1_RT_28.529,,Unknown_mz_766.69232_+_RT_28.305,
+TG 16:0_16:0_24:0_RT_35.146,,Unknown_mz_766.69232_+_RT_28.305,
+TG 16:0_18:0_18:0_RT_34.031,,Unknown_mz_766.69232_+_RT_28.305,
+TG 42:1_RT_28.302,,Unknown_mz_766.69232_+_RT_28.305,
+TG 44:1_RT_29.294,,Unknown_mz_766.69232_+_RT_28.305,
+TG 46:1_RT_30.294,,Unknown_mz_766.69232_+_RT_28.305,
+TG 46:2_RT_29.48,,Unknown_mz_766.69232_+_RT_28.305,
+TG 46:3_RT_28.628,,Unknown_mz_766.69232_+_RT_28.305,
+TG 47:2_RT_29.947,,Unknown_mz_766.69232_+_RT_28.305,
+TG 8:0_15:0_16:0_RT_27.751,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_1039.67261_+_RT_11.185,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1041.68823_+_RT_11.863,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1041.68872_+_RT_11.738,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1063.67212_+_RT_11.077,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1063.67285_+_RT_11.193,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1063.672_+_RT_11.885,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1087.69226_-_RT_12.293,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1107.66125_-_RT_11.066,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1109.65356_+_RT_11.17,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1131.66211_-_RT_11.186,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1155.04663_+_RT_24.774,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1181.06323_+_RT_24.803,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1181.98779_+_RT_23.981,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1193.98499_+_RT_23.882,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1204.04907_+_RT_24.162,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1227.05237_+_RT_24.126,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1237.12878_+_RT_25.831,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1455.19128_+_RT_24.513,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_1468.27539_+_RT_29.197,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_1494.28638_+_RT_29.248,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_1516.27661_+_RT_28.532,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_1567.38342_+_RT_29.458,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_1572.33655_+_RT_29.463,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_245.22595_+_RT_13.471,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_258.11005_+_RT_1.474,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_263.23645_+_RT_13.471,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_287.23691_+_RT_13.446,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_302.10052_-_RT_1.27,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_311.21869_+_RT_10.981,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_312.29016_+_RT_17.443,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_313.27353_+_RT_14.323,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_317.24741_+_RT_12.26,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_319.22717_-_RT_11.732,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_337.27298_+_RT_13.471,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_339.25079_+_RT_13.262,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_339.28937_+_RT_14.753,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_348.07925_+_RT_1.27,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_351.02069_-_RT_1.386,,Unknown_mz_766.75885_+_RT_1.234,
+Unknown_mz_353.26541_+_RT_14.085,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_355.28354_+_RT_13.472,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_357.29984_+_RT_14.753,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_360.28915_+_RT_17.001,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_362.30511_+_RT_17.721,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_362.3056_+_RT_18.15,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_365.24597_-_RT_14.058,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_369.23981_+_RT_14.301,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_370.29538_+_RT_12.394,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_372.31085_+_RT_13.272,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_372.31091_+_RT_13.953,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_375.25015_+_RT_12.546,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_377.26541_+_RT_12.394,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_379.28143_+_RT_14.557,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_379.28595_+_RT_13.314,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_386.3259_+_RT_14.491,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_391.24271_-_RT_13.475,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_393.29718_+_RT_15.809,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_396.31009_+_RT_13.295,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_396.31088_+_RT_13.446,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_400.34274_+_RT_15.344,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_405.22116_+_RT_11.052,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_413.24588_-_RT_13.454,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_416.88257_-_RT_1.229,,Unknown_mz_766.75885_+_RT_1.234,
+Unknown_mz_420.31012_+_RT_13.354,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_422.32593_+_RT_13.926,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_432.97626_+_RT_1.38,,Unknown_mz_766.75885_+_RT_1.234,
+Unknown_mz_445.2529_+_RT_13.463,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_449.28555_+_RT_16.376,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_453.29675_+_RT_14.74,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_496.37521_+_RT_13.592,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_508.37686_+_RT_14.624,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_532.37421_+_RT_14.589,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_535.4339_+_RT_22.661,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_552.40222_+_RT_14.023,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_561.44934_+_RT_22.704,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_568.33972_+_RT_11.902,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_570.50861_+_RT_23.416,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_614.3454_-_RT_12.087,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_616.36139_-_RT_12.605,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_621.30347_-_RT_11.079,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_656.58331_+_RT_25.394,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_665.09418_-_RT_1.377,,Unknown_mz_766.75885_+_RT_1.234,
+Unknown_mz_667.53271_-_RT_14.302,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_684.61389_+_RT_26.119,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_708.54657_+_RT_14.3,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_708.62976_+_RT_27.454,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_712.6452_+_RT_25.192,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_715.53271_-_RT_13.482,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_719.56488_-_RT_14.751,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_724.30872_-_RT_23.18,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_726.63995_+_RT_27.125,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_733.57343_+_RT_28.179,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_734.63037_+_RT_25.901,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_736.64594_+_RT_26.57,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_738.53009_+_RT_13.467,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_738.6001_+_RT_14.757,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_738.65997_+_RT_26.549,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_738.66125_+_RT_27.291,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_738.6615_+_RT_25.394,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_739.58575_+_RT_26.834,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_741.60077_+_RT_27.532,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_742.65503_+_RT_26.11,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_743.61646_+_RT_28.297,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_745.5152_+_RT_14.3,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_748.39844_-_RT_24.778,,Unknown_mz_765.60468_+_RT_16.383,
+Unknown_mz_752.67621_+_RT_29.183,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_752.67676_+_RT_26.296,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_757.63165_+_RT_28.819,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_762.66071_+_RT_27.74,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_764.67676_+_RT_27.522,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_765.60468_+_RT_16.383,,Unknown_mz_782.4267_-_RT_24.225,
+Unknown_mz_766.69196_+_RT_26.293,,Unknown_mz_766.69232_+_RT_28.305,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_832.73975_+_RT_27.702,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_830.71057_+_RT_27.868,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_776.67676_+_RT_28.157,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_793.63165_+_RT_28.367,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_795.64679_+_RT_28.628,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_811.62109_+_RT_28.63,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_905.5639_+_RT_28.63,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_780.70953_+_RT_27.345,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_851.5166_+_RT_27.535,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_846.75452_+_RT_27.716,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_798.7207_+_RT_28.176,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_824.737_+_RT_28.3,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_822.75537_+_RT_28.304,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_768.6731_+_RT_26.55,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_770.68744_+_RT_27.138,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_822.72083_+_RT_27.527,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_812.67621_+_RT_28.125,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_814.69196_+_RT_28.152,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_780.69897_+_RT_28.309,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_794.7243_+_RT_28.327,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_836.74402_+_RT_28.521,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_769.6311_+_RT_28.523,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_792.70734_+_RT_28.536,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_864.77179_+_RT_28.55,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_820.73932_+_RT_28.552,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_876.77521_+_RT_28.63,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_846.7561_+_RT_28.63,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_832.72412_+_RT_28.634,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_821.66254_+_RT_28.831,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_902.78906_+_RT_28.837,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_826.75671_+_RT_29.2,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_780.7077_+_RT_29.279,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_852.76886_+_RT_29.292,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_771.64661_+_RT_29.293,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_850.7865_+_RT_29.293,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_836.77008_+_RT_29.296,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_794.72351_+_RT_29.303,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_816.7077_+_RT_29.317,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_862.78735_+_RT_29.482,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_806.72339_+_RT_29.498,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_782.7207_+_RT_29.713,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_780.7074_+_RT_29.787,
+Unknown_mz_766.69232_+_RT_28.305,,Unknown_mz_796.73724_+_RT_30.218,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_856.75623_-_RT_1.228,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_924.74133_-_RT_1.23,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_992.72961_-_RT_1.232,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_902.73358_+_RT_1.232,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_970.72131_+_RT_1.232,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_834.74628_+_RT_1.232,
+Unknown_mz_766.75885_+_RT_1.234,,Unknown_mz_788.76813_-_RT_1.232,
+CRTAC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001206528,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FBLN5,https://www.ncbi.nlm.nih.gov/nuccore/NM_006329,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+KLKB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000892,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ATRN;sp|O75882-3|ATRN_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SERPINA3,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+AHSG,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ALB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000477,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+S100A8,https://www.ncbi.nlm.nih.gov/nuccore/NM_001319196,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+GSN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000177,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+S100A9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002965,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SAA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001127380,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LCP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002298,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TNC;sp|P24821|TENA_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CFP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145252,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+DEFA3,https://www.ncbi.nlm.nih.gov/nuccore/NM_005217_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+GPLD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001503,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH2,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+PGLYRP2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363546,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+APOA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001643,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,glycerophosphoethanolamine,https://www.ebi.ac.uk/chebi/36314
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-GPE (P-18:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-margaroyl-GPC (17:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-GPE (18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmitoleoyl-GPC (16:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-stearoyl-GPC (18:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,glycerophosphorylcholine (GPC),https://www.ebi.ac.uk/chebi/135063
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,2-palmitoyl-GPC (16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-oleoyl-GPC (18:1),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,retinol (Vitamin A),https://www.ebi.ac.uk/chebi/17336
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-GPC (14:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmityl-GPC (O-16:0),https://www.ebi.ac.uk/chebi/64496
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmitoyl-GPC (16:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-pentadecanoyl-GPC (15:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,"9,10-DiHOME",https://www.ebi.ac.uk/chebi/72663
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-oleoyl)-GPE (P-18:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-stearyl-GPC (O-18:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-GPC (18:2),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,2-linoleoyl-GPC (18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-dihomo-linolenoyl-GPC (20:3n3 or 6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-adrenoyl-GPC (22:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,6-bromotryptophan,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,retinal,https://www.ebi.ac.uk/chebi/15035
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,taurine,https://www.ebi.ac.uk/chebi/15891
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,serotonin,https://www.ebi.ac.uk/chebi/28790
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,acetoacetate,https://www.ebi.ac.uk/chebi/13705
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-eicosenoyl-GPC (20:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,proline,https://www.ebi.ac.uk/chebi/26271
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-arachidonoyl-GPE (20:4n6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,glutamine conjugate of C6H10O2 (2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,flavin adenine dinucleotide (FAD),https://www.ebi.ac.uk/chebi/16238
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,citrulline,https://www.ebi.ac.uk/chebi/18211
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,5-methyluridine (ribothymidine),
+taurine,https://www.ebi.ac.uk/chebi/15891,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*,,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511,choline phosphate,https://www.ebi.ac.uk/chebi/295975
+GPX3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001329790,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGFBP3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000598,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001166449,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001063,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SFTPB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000542,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CLEC3B,https://www.ncbi.nlm.nih.gov/nuccore/NM_001308394,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+AGT,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGLV3-1,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LRG1,https://www.ncbi.nlm.nih.gov/nuccore/NM_052972,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TTR,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HRG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000412,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SERPINA5,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SAA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000331,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LBP,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001166434,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+MRC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002438,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-B,https://www.ncbi.nlm.nih.gov/nuccore/NM_005514_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGFALS,https://www.ncbi.nlm.nih.gov/nuccore/NM_001146006,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH3;sp|Q06033|ITIH3_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LGALS3BP,https://www.ncbi.nlm.nih.gov/nuccore/NM_005567,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TIMP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003254,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FETUB,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CRTAC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001206528,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FBLN5,https://www.ncbi.nlm.nih.gov/nuccore/NM_006329,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+KLKB1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000892,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ATRN;sp|O75882-3|ATRN_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SERPINA3,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+AHSG,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ALB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000477,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+S100A8,https://www.ncbi.nlm.nih.gov/nuccore/NM_001319196,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+GSN,https://www.ncbi.nlm.nih.gov/nuccore/NM_000177,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+S100A9,https://www.ncbi.nlm.nih.gov/nuccore/NM_002965,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SAA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001127380,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LCP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002298,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TNC;sp|P24821|TENA_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CFP,https://www.ncbi.nlm.nih.gov/nuccore/NM_001145252,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+DEFA3,https://www.ncbi.nlm.nih.gov/nuccore/NM_005217_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+GPLD1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001503,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH2,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+PGLYRP2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001363546,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+APOA2,https://www.ncbi.nlm.nih.gov/nuccore/NM_001643,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*,,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-GPE (P-16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-GPE (P-18:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-margaroyl-GPC (17:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-GPE (18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-GPC (P-16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmitoleoyl-GPC (16:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-stearoyl-GPC (18:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,glycerophosphorylcholine (GPC),https://www.ebi.ac.uk/chebi/135063
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,2-palmitoyl-GPC (16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-oleoyl-GPC (18:1),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,retinol (Vitamin A),https://www.ebi.ac.uk/chebi/17336
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-GPC (14:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmityl-GPC (O-16:0),https://www.ebi.ac.uk/chebi/64496
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmitoyl-GPC (16:0),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-pentadecanoyl-GPC (15:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,"9,10-DiHOME",https://www.ebi.ac.uk/chebi/72663
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-oleoyl)-GPE (P-18:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-stearyl-GPC (O-18:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-linoleoyl-GPC (18:2),
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,2-linoleoyl-GPC (18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,"sphingomyelin (d18:2/14:0, d18:1/14:1)*",
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-dihomo-linolenoyl-GPC (20:3n3 or 6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-adrenoyl-GPC (22:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,6-bromotryptophan,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,retinal,https://www.ebi.ac.uk/chebi/15035
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,taurine,https://www.ebi.ac.uk/chebi/15891
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,serotonin,https://www.ebi.ac.uk/chebi/28790
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,acetoacetate,https://www.ebi.ac.uk/chebi/13705
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-eicosenoyl-GPC (20:1)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,proline,https://www.ebi.ac.uk/chebi/26271
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-arachidonoyl-GPE (20:4n6)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,glutamine conjugate of C6H10O2 (2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,flavin adenine dinucleotide (FAD),https://www.ebi.ac.uk/chebi/16238
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,citrulline,https://www.ebi.ac.uk/chebi/18211
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*,
+IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600,5-methyluridine (ribothymidine),
+taurine,https://www.ebi.ac.uk/chebi/15891,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+glycerophosphoethanolamine,https://www.ebi.ac.uk/chebi/36314,IL6,https://www.ncbi.nlm.nih.gov/nuccore/NM_000600
+1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*,,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+choline phosphate,https://www.ebi.ac.uk/chebi/295975,CXCL1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001511
+GPX3,https://www.ncbi.nlm.nih.gov/nuccore/NM_001329790,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGFBP3,https://www.ncbi.nlm.nih.gov/nuccore/NM_000598,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH4,https://www.ncbi.nlm.nih.gov/nuccore/NM_001166449,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TF,https://www.ncbi.nlm.nih.gov/nuccore/NM_001063,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SFTPB,https://www.ncbi.nlm.nih.gov/nuccore/NM_000542,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+CLEC3B,https://www.ncbi.nlm.nih.gov/nuccore/NM_001308394,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+AGT,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGLV3-1,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LRG1,https://www.ncbi.nlm.nih.gov/nuccore/NM_052972,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TTR,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HRG,https://www.ncbi.nlm.nih.gov/nuccore/NM_000412,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SERPINA5,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+SAA1,https://www.ncbi.nlm.nih.gov/nuccore/NM_000331,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LBP,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH1,https://www.ncbi.nlm.nih.gov/nuccore/NM_001166434,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+MRC1,https://www.ncbi.nlm.nih.gov/nuccore/NM_002438,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+HLA-B,https://www.ncbi.nlm.nih.gov/nuccore/NM_005514_2,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+IGFALS,https://www.ncbi.nlm.nih.gov/nuccore/NM_001146006,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+ITIH3;sp|Q06033|ITIH3_HUMAN,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+LGALS3BP,https://www.ncbi.nlm.nih.gov/nuccore/NM_005567,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+TIMP1,https://www.ncbi.nlm.nih.gov/nuccore/NM_003254,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185
+FETUB,,IL7R,https://www.ncbi.nlm.nih.gov/nuccore/NM_002185

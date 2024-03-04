@@ -1,0 +1,1029 @@
+@prefix chebi: <https://www.ebi.ac.uk/chebi/> .
+@prefix ncbi: <https://www.ncbi.nlm.nih.gov/nuccore/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+chebi:11951 rdfs:label "4-acetamidobutanoate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:132918 rdfs:label "1-methyl-4-imidazoleacetate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:132934 rdfs:label "3-hydroxysebacate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:132942 rdfs:label "quinolinate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:132991 rdfs:label "pyroglutamylvaline"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:133476 rdfs:label "hydantoin-5-propionate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:133592 rdfs:label "N-acetylkynurenine (2)"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:133613 rdfs:label "4-hydroxyhippurate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:16680 rdfs:label "S-adenosylhomocysteine (SAH)"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:17268 rdfs:label "myo-inositol"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:17325 rdfs:label "3-hydroxy-3-methylglutarate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:17755 rdfs:label "cystathionine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:17802 rdfs:label "pseudouridine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:181550 rdfs:label "N2,N2-dimethylguanosine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:183825 rdfs:label "N6-succinyladenosine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:19065 rdfs:label "N1-methylinosine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:21440 rdfs:label "N6-carbamoylthreonyladenosine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:24297 rdfs:label "glucuronate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:46215 rdfs:label "O-sulfo-L-tyrosine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:58454 rdfs:label "kynurenate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:70976 rdfs:label "N-acetyltryptophan"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:76276 rdfs:label "hexadecanedioate (C16-DC)"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:86910 rdfs:label "N-acetylhistidine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:88956 rdfs:label "pyroglutamylglutamine"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+chebi:89312 rdfs:label "2-hydroxysebacate"^^xsd:string ;
+    obo:PATO_0001668 chebi:73052 .
+
+ncbi:NM_000061 rdfs:label "BTK"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000062 rdfs:label "SERPING1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000177 rdfs:label "GSN"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000201 rdfs:label "ICAM1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_000301 rdfs:label "PLG"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_000331 rdfs:label "SAA1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000412 rdfs:label "HRG"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000417 rdfs:label "IL2RA"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000477 rdfs:label "ALB"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000488 rdfs:label "SERPINC1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000504 rdfs:label "F10"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_000542 rdfs:label "SFTPB"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000569 rdfs:label "FCGR3A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_000577 rdfs:label "IL1RN"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_000584 rdfs:label "CXCL8"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_000591 rdfs:label "CD14"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_000598 rdfs:label "IGFBP3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_000609 rdfs:label "CXCL12"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_000615 rdfs:label "NCAM1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_000619 rdfs:label "IFNG"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000572,
+        ncbi:NM_000600 .
+
+ncbi:NM_000628 rdfs:label "IL10RB"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_000716 rdfs:label "C4BPB"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_000732 rdfs:label "CD3D"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000799 rdfs:label "EPO"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000572,
+        ncbi:NM_000600 .
+
+ncbi:NM_000880 rdfs:label "IL7"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000892 rdfs:label "KLKB1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000927 rdfs:label "ABCB1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565,
+        ncbi:NM_002185 .
+
+ncbi:NM_000934_2 rdfs:label "SERPINF2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_001002857 rdfs:label "ANXA2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001006658 rdfs:label "CR2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001017963 rdfs:label "HSP90AA1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_001024688 rdfs:label "NBN"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_001024844 rdfs:label "CD82"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001040280 rdfs:label "CD83"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_001063 rdfs:label "TF"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001080124 rdfs:label "CASP8"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001098478_2 rdfs:label "HLA-F"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001110 rdfs:label "ADAM10"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001111097 rdfs:label "LYN"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_001127380 rdfs:label "SAA2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001145252 rdfs:label "CFP"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_001146006 rdfs:label "IGFALS"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001166434 rdfs:label "ITIH1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001166449 rdfs:label "ITIH4"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001172128 rdfs:label "IL16"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_001206528 rdfs:label "CRTAC1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001242758_2 rdfs:label "HLA-A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_001243042_2 rdfs:label "HLA-C"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_001243211 rdfs:label "IL18"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_001253835 rdfs:label "IGFBP7"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_001257971 rdfs:label "CTSL"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_001261419 rdfs:label "IL1R2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_001267713_2 rdfs:label "IL3RA"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001282399 rdfs:label "IL18R1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001295 rdfs:label "CCR1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001308394 rdfs:label "CLEC3B"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001319196 rdfs:label "S100A8"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001328609 rdfs:label "CD2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001329790 rdfs:label "GPX3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001354991 rdfs:label "IL13"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600 .
+
+ncbi:NM_001361665 rdfs:label "FGF2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600 .
+
+ncbi:NM_001363546 rdfs:label "PGLYRP2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001376887 rdfs:label "TNFSF14"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001503 rdfs:label "GPLD1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001511 rdfs:label "CXCL1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_001565 rdfs:label "CXCL10"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_001643 rdfs:label "APOA2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001935 rdfs:label "DPP4"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002121_2 rdfs:label "HLA-DPB1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002190 rdfs:label "IL17A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_002298 rdfs:label "LCP1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002438 rdfs:label "MRC1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002965 rdfs:label "S100A9"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002982 rdfs:label "CCL2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_002983_2 rdfs:label "CCL3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_002984_2 rdfs:label "CCL4"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_002185 .
+
+ncbi:NM_002994 rdfs:label "CXCL5"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_004048_2 rdfs:label "B2M"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565,
+        ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_005018_2 rdfs:label "PDCD1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005217_2 rdfs:label "DEFA3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005347 rdfs:label "HSPA5"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_005514_2 rdfs:label "HLA-B"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005516_2 rdfs:label "HLA-E"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005567 rdfs:label "LGALS3BP"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_006083 rdfs:label "IK"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_006329 rdfs:label "FBLN5"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_006761_2 rdfs:label "YWHAE"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_019111_2 rdfs:label "HLA-DRA"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_052972 rdfs:label "LRG1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+chebi:135063 rdfs:label "glycerophosphorylcholine (GPC)"^^xsd:string .
+
+chebi:13705 rdfs:label "acetoacetate"^^xsd:string .
+
+chebi:15035 rdfs:label "retinal"^^xsd:string .
+
+chebi:16238 rdfs:label "flavin adenine dinucleotide (FAD)"^^xsd:string .
+
+chebi:18211 rdfs:label "citrulline"^^xsd:string .
+
+chebi:26271 rdfs:label "proline"^^xsd:string .
+
+chebi:27622 rdfs:label "vanillylmandelate (VMA)"^^xsd:string .
+
+chebi:28790 rdfs:label "serotonin"^^xsd:string .
+
+chebi:36314 rdfs:label "glycerophosphoethanolamine"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600 .
+
+chebi:64496 rdfs:label "1-palmityl-GPC (O-16:0)"^^xsd:string .
+
+chebi:72663 rdfs:label "9,10-DiHOME"^^xsd:string .
+
+chebi:72723 rdfs:label "phenylalanylphenylalanine"^^xsd:string .
+
+chebi:88526 rdfs:label "vanillactate"^^xsd:string .
+
+ncbi:NM_000021 rdfs:label "PSEN1"^^xsd:string .
+
+ncbi:NM_000044 rdfs:label "AR"^^xsd:string .
+
+ncbi:NM_000132 rdfs:label "F8"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000138 rdfs:label "FBN1"^^xsd:string .
+
+ncbi:NM_000165 rdfs:label "GJA1"^^xsd:string .
+
+ncbi:NM_000239 rdfs:label "LYZ"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412,
+        ncbi:NM_002185 .
+
+ncbi:NM_000246 rdfs:label "CIITA"^^xsd:string .
+
+ncbi:NM_000314_2 rdfs:label "PTEN"^^xsd:string .
+
+ncbi:NM_000321 rdfs:label "RB1"^^xsd:string .
+
+ncbi:NM_000355 rdfs:label "TCN2"^^xsd:string .
+
+ncbi:NM_000363 rdfs:label "TNNI3"^^xsd:string .
+
+ncbi:NM_000377 rdfs:label "WAS"^^xsd:string .
+
+ncbi:NM_000402 rdfs:label "G6PD"^^xsd:string .
+
+ncbi:NM_000442 rdfs:label "PECAM1"^^xsd:string .
+
+ncbi:NM_000462 rdfs:label "UBE3A"^^xsd:string .
+
+ncbi:NM_000552 rdfs:label "VWF"^^xsd:string .
+
+ncbi:NM_000560 rdfs:label "CD53"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000570 rdfs:label "FCGR3B"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000575 rdfs:label "IL1A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600 .
+
+ncbi:NM_000578 rdfs:label "SLC11A1"^^xsd:string .
+
+ncbi:NM_000585 rdfs:label "IL15"^^xsd:string .
+
+ncbi:NM_000586 rdfs:label "IL2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600 .
+
+ncbi:NM_000589 rdfs:label "IL4"^^xsd:string .
+
+ncbi:NM_000593_2 rdfs:label "TAP1"^^xsd:string .
+
+ncbi:NM_000632 rdfs:label "ITGAM"^^xsd:string .
+
+ncbi:NM_000636 rdfs:label "SOD2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000675 rdfs:label "ADORA2A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_000759 rdfs:label "CSF3"^^xsd:string .
+
+ncbi:NM_000891 rdfs:label "KCNJ2"^^xsd:string .
+
+ncbi:NM_000899 rdfs:label "KITLG"^^xsd:string .
+
+ncbi:NM_000914 rdfs:label "OPRM1"^^xsd:string .
+
+ncbi:NM_000953 rdfs:label "PTGDR"^^xsd:string .
+
+ncbi:NM_000963 rdfs:label "PTGS2"^^xsd:string .
+
+ncbi:NM_001005376 rdfs:label "PLAUR"^^xsd:string .
+
+ncbi:NM_001014797 rdfs:label "KCNMA1"^^xsd:string .
+
+ncbi:NM_001023 rdfs:label "RPS20"^^xsd:string .
+
+ncbi:NM_001025366 rdfs:label "VEGFA"^^xsd:string .
+
+ncbi:NM_001030272 rdfs:label "ARNTL"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001031804 rdfs:label "MAF"^^xsd:string .
+
+ncbi:NM_001033553 rdfs:label "SPECC1"^^xsd:string .
+
+ncbi:NM_001039664 rdfs:label "TNFRSF25"^^xsd:string .
+
+ncbi:NM_001045556 rdfs:label "SLA"^^xsd:string .
+
+ncbi:NM_001065 rdfs:label "TNFRSF1A"^^xsd:string .
+
+ncbi:NM_001077494 rdfs:label "NFKB2"^^xsd:string .
+
+ncbi:NM_001079821 rdfs:label "NLRP3"^^xsd:string .
+
+ncbi:NM_001098175 rdfs:label "ENTPD1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001099856 rdfs:label "IKBKG"^^xsd:string .
+
+ncbi:NM_001114380 rdfs:label "ITGAL"^^xsd:string .
+
+ncbi:NM_001114614 rdfs:label "MFGE8"^^xsd:string .
+
+ncbi:NM_001126131 rdfs:label "POLG"^^xsd:string .
+
+ncbi:NM_001128918 rdfs:label "MARK3"^^xsd:string .
+
+ncbi:NM_001130845 rdfs:label "BCL6"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001135052 rdfs:label "SYK"^^xsd:string .
+
+ncbi:NM_001142531 rdfs:label "SH2D3C"^^xsd:string .
+
+ncbi:NM_001143805 rdfs:label "BDNF"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001144999 rdfs:label "ITGAV"^^xsd:string .
+
+ncbi:NM_001145031 rdfs:label "PLAU"^^xsd:string .
+
+ncbi:NM_001145443 rdfs:label "PFKFB3"^^xsd:string .
+
+ncbi:NM_001145938 rdfs:label "MMP1"^^xsd:string .
+
+ncbi:NM_001165 rdfs:label "BIRC3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001168298 rdfs:label "CXCR2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001168319 rdfs:label "EDN1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001172566 rdfs:label "MYD88"^^xsd:string .
+
+ncbi:NM_001178096 rdfs:label "F3"^^xsd:string .
+
+ncbi:NM_001178098 rdfs:label "CD19"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565,
+        ncbi:NM_002185 .
+
+ncbi:NM_001178100 rdfs:label "CD8B"^^xsd:string .
+
+ncbi:NM_001190942 rdfs:label "TNFSF10"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001191 rdfs:label "BCL2L1"^^xsd:string .
+
+ncbi:NM_001193397 rdfs:label "PTPA"^^xsd:string .
+
+ncbi:NM_001197122 rdfs:label "IRF3"^^xsd:string .
+
+ncbi:NM_001197320 rdfs:label "MCL1"^^xsd:string .
+
+ncbi:NM_001199149 rdfs:label "LTF"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001206696 rdfs:label "IRF6"^^xsd:string .
+
+ncbi:NM_001242524_2 rdfs:label "HLA-DPA1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001244938 rdfs:label "TXN"^^xsd:string .
+
+ncbi:NM_001251882 rdfs:label "VIPR1"^^xsd:string .
+
+ncbi:NM_001256647 rdfs:label "NR1H2"^^xsd:string .
+
+ncbi:NM_001256820 rdfs:label "RIT1"^^xsd:string .
+
+ncbi:NM_001257328 rdfs:label "ARRB2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001267562 rdfs:label "CREM"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001278736_2 rdfs:label "CCL5"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001286968 rdfs:label "JUND"^^xsd:string .
+
+ncbi:NM_001288718 rdfs:label "STAT5A"^^xsd:string .
+
+ncbi:NM_001292001 rdfs:label "SRF"^^xsd:string .
+
+ncbi:NM_001312673 rdfs:label "PCYT1A"^^xsd:string .
+
+ncbi:NM_001313892 rdfs:label "HMGB1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001317237_2 rdfs:label "CTSB"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565,
+        ncbi:NM_002185 .
+
+ncbi:NM_001321378 rdfs:label "PIK3C2A"^^xsd:string .
+
+ncbi:NM_001321859 rdfs:label "RTN4"^^xsd:string .
+
+ncbi:NM_001330264 rdfs:label "TYRO3"^^xsd:string .
+
+ncbi:NM_001354768_2 rdfs:label "NRL"^^xsd:string .
+
+ncbi:NM_001362846 rdfs:label "MB"^^xsd:string .
+
+ncbi:NM_001419 rdfs:label "ELAVL1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001547 rdfs:label "IFIT2"^^xsd:string .
+
+ncbi:NM_001558 rdfs:label "IL10RA"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000600,
+        ncbi:NM_001165412 .
+
+ncbi:NM_001781 rdfs:label "CD69"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002089 rdfs:label "CXCL2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002090 rdfs:label "CXCL3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_002205 rdfs:label "ITGA5"^^xsd:string .
+
+ncbi:NM_002228 rdfs:label "JUN"^^xsd:string .
+
+ncbi:NM_002354 rdfs:label "EPCAM"^^xsd:string .
+
+ncbi:NM_002372 rdfs:label "MAN2A1"^^xsd:string .
+
+ncbi:NM_002378 rdfs:label "MATK"^^xsd:string .
+
+ncbi:NM_002389 rdfs:label "CD46"^^xsd:string .
+
+ncbi:NM_002395 rdfs:label "ME1"^^xsd:string .
+
+ncbi:NM_002412 rdfs:label "MGMT"^^xsd:string .
+
+ncbi:NM_002556 rdfs:label "OSBP"^^xsd:string .
+
+ncbi:NM_002562 rdfs:label "P2RX7"^^xsd:string .
+
+ncbi:NM_002608 rdfs:label "PDGFB"^^xsd:string .
+
+ncbi:NM_002664 rdfs:label "PLEK"^^xsd:string .
+
+ncbi:NM_002988_2 rdfs:label "CCL18"^^xsd:string .
+
+ncbi:NM_002995 rdfs:label "XCL1"^^xsd:string .
+
+ncbi:NM_003155 rdfs:label "STC1"^^xsd:string .
+
+ncbi:NM_003183 rdfs:label "ADAM17"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000565 .
+
+ncbi:NM_003254 rdfs:label "TIMP1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_003265 rdfs:label "TLR3"^^xsd:string .
+
+ncbi:NM_003362 rdfs:label "UNG"^^xsd:string .
+
+ncbi:NM_003380 rdfs:label "VIM"^^xsd:string .
+
+ncbi:NM_003641 rdfs:label "IFITM1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_003725 rdfs:label "HSD17B6"^^xsd:string .
+
+ncbi:NM_004161 rdfs:label "RAB1A"^^xsd:string .
+
+ncbi:NM_004419 rdfs:label "DUSP5"^^xsd:string .
+
+ncbi:NM_004599 rdfs:label "SREBF2"^^xsd:string .
+
+ncbi:NM_004951 rdfs:label "GPR183"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005564 rdfs:label "LCN2"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001165412 .
+
+ncbi:NM_005633 rdfs:label "SOS1"^^xsd:string .
+
+ncbi:NM_005911 rdfs:label "MAT2A"^^xsd:string .
+
+ncbi:NM_006435 rdfs:label "IFITM2"^^xsd:string .
+
+ncbi:NM_006500 rdfs:label "MCAM"^^xsd:string .
+
+ncbi:NM_006509 rdfs:label "RELB"^^xsd:string .
+
+ncbi:NM_014398 rdfs:label "LAMP3"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_015675 rdfs:label "GADD45B"^^xsd:string .
+
+ncbi:NM_021127 rdfs:label "PMAIP1"^^xsd:string .
+
+ncbi:NM_198976 rdfs:label "NELFCD"^^xsd:string .
+
+chebi:15891 rdfs:label "taurine"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000572 .
+
+chebi:17336 rdfs:label "retinol (Vitamin A)"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000572 .
+
+ncbi:NM_000594_2 rdfs:label "TNF"^^xsd:string .
+
+ncbi:NM_000758 rdfs:label "CSF2"^^xsd:string .
+
+ncbi:NM_000874 rdfs:label "IFNAR2"^^xsd:string .
+
+ncbi:NM_000876 rdfs:label "IGF2R"^^xsd:string .
+
+ncbi:NM_001031683 rdfs:label "IFIT3"^^xsd:string .
+
+ncbi:NM_001042771 rdfs:label "LCK"^^xsd:string .
+
+ncbi:NM_001083116 rdfs:label "PRF1"^^xsd:string .
+
+ncbi:NM_001114735 rdfs:label "BCL2A1"^^xsd:string .
+
+ncbi:NM_001190981 rdfs:label "IL6ST"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001223 rdfs:label "CASP1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001243084 rdfs:label "HIF1A"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001270507 rdfs:label "TNFAIP3"^^xsd:string .
+
+ncbi:NM_001329128_2 rdfs:label "IFNGR2"^^xsd:string .
+
+ncbi:NM_001357678 rdfs:label "LGALS3"^^xsd:string .
+
+ncbi:NM_001363626 rdfs:label "MSX2"^^xsd:string .
+
+ncbi:NM_001363702 rdfs:label "RTN1"^^xsd:string .
+
+ncbi:NM_001363744 rdfs:label "MSR1"^^xsd:string .
+
+ncbi:NM_001369512 rdfs:label "STAT3"^^xsd:string .
+
+ncbi:NM_002229 rdfs:label "JUNB"^^xsd:string .
+
+ncbi:NM_002745 rdfs:label "MAPK1"^^xsd:string .
+
+ncbi:NM_002831 rdfs:label "PTPN6"^^xsd:string .
+
+ncbi:NM_004106 rdfs:label "FCER1G"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_004994 rdfs:label "MMP9"^^xsd:string .
+
+ncbi:NM_005252 rdfs:label "FOS"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_005953 rdfs:label "MT2A"^^xsd:string .
+
+ncbi:NM_007315 rdfs:label "STAT1"^^xsd:string .
+
+ncbi:NM_020529 rdfs:label "NFKBIA"^^xsd:string .
+
+ncbi:NM_021950 rdfs:label "MS4A1"^^xsd:string .
+
+ncbi:NM_000576 rdfs:label "IL1B"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_002185 .
+
+ncbi:NM_001354924 rdfs:label "IRF1"^^xsd:string .
+
+ncbi:NM_000572 rdfs:label "IL10"^^xsd:string ;
+    obo:PATO_0001668 chebi:15891,
+        chebi:17336,
+        chebi:72723,
+        ncbi:NM_000363,
+        ncbi:NM_000575,
+        ncbi:NM_000576,
+        ncbi:NM_000586,
+        ncbi:NM_000594_2,
+        ncbi:NM_000600,
+        ncbi:NM_000758,
+        ncbi:NM_001042771,
+        ncbi:NM_001178100,
+        ncbi:NM_001558,
+        ncbi:NM_002354 .
+
+ncbi:NM_001320923 rdfs:label "JAK1"^^xsd:string .
+
+ncbi:NM_001322194 rdfs:label "JAK2"^^xsd:string .
+
+ncbi:NM_000565 rdfs:label "IL6R"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_001190981,
+        ncbi:NM_001320923,
+        ncbi:NM_001321859,
+        ncbi:NM_001322194,
+        ncbi:NM_001369512,
+        ncbi:NM_002185,
+        ncbi:NM_002831,
+        ncbi:NM_007315,
+        ncbi:NM_198976 .
+
+ncbi:NM_001165412 rdfs:label "NFKB1"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000021,
+        ncbi:NM_000044,
+        ncbi:NM_000132,
+        ncbi:NM_000314_2,
+        ncbi:NM_000321,
+        ncbi:NM_000442,
+        ncbi:NM_000462,
+        ncbi:NM_000552,
+        ncbi:NM_000576,
+        ncbi:NM_000578,
+        ncbi:NM_000593_2,
+        ncbi:NM_000874,
+        ncbi:NM_000876,
+        ncbi:NM_000891,
+        ncbi:NM_000953,
+        ncbi:NM_000963,
+        ncbi:NM_001005376,
+        ncbi:NM_001023,
+        ncbi:NM_001025366,
+        ncbi:NM_001031683,
+        ncbi:NM_001045556,
+        ncbi:NM_001065,
+        ncbi:NM_001077494,
+        ncbi:NM_001083116,
+        ncbi:NM_001099856,
+        ncbi:NM_001114735,
+        ncbi:NM_001135052,
+        ncbi:NM_001145443,
+        ncbi:NM_001178098,
+        ncbi:NM_001193397,
+        ncbi:NM_001197122,
+        ncbi:NM_001206696,
+        ncbi:NM_001223,
+        ncbi:NM_001243084,
+        ncbi:NM_001244938,
+        ncbi:NM_001256647,
+        ncbi:NM_001256820,
+        ncbi:NM_001257328,
+        ncbi:NM_001270507,
+        ncbi:NM_001278736_2,
+        ncbi:NM_001288718,
+        ncbi:NM_001292001,
+        ncbi:NM_001312673,
+        ncbi:NM_001313892,
+        ncbi:NM_001317237_2,
+        ncbi:NM_001320923,
+        ncbi:NM_001322194,
+        ncbi:NM_001329128_2,
+        ncbi:NM_001330264,
+        ncbi:NM_001354768_2,
+        ncbi:NM_001354924,
+        ncbi:NM_001363702,
+        ncbi:NM_001369512,
+        ncbi:NM_002185,
+        ncbi:NM_002229,
+        ncbi:NM_002372,
+        ncbi:NM_002389,
+        ncbi:NM_002556,
+        ncbi:NM_002608,
+        ncbi:NM_002664,
+        ncbi:NM_002745,
+        ncbi:NM_002995,
+        ncbi:NM_003183,
+        ncbi:NM_003254,
+        ncbi:NM_003265,
+        ncbi:NM_003362,
+        ncbi:NM_004106,
+        ncbi:NM_004161,
+        ncbi:NM_004599,
+        ncbi:NM_004994,
+        ncbi:NM_005252,
+        ncbi:NM_005633,
+        ncbi:NM_005911,
+        ncbi:NM_006509,
+        ncbi:NM_007315,
+        ncbi:NM_020529,
+        ncbi:NM_021127 .
+
+chebi:73052 rdfs:label "suberoylcarnitine (C8-DC)"^^xsd:string ;
+    obo:PATO_0001668 chebi:27622,
+        chebi:88526 .
+
+ncbi:NM_000600 rdfs:label "IL6"^^xsd:string ;
+    obo:PATO_0001668 chebi:135063,
+        chebi:13705,
+        chebi:15035,
+        chebi:15891,
+        chebi:16238,
+        chebi:17336,
+        chebi:18211,
+        chebi:26271,
+        chebi:28790,
+        chebi:36314,
+        chebi:64496,
+        chebi:72663,
+        ncbi:NM_000138,
+        ncbi:NM_000165,
+        ncbi:NM_000239,
+        ncbi:NM_000246,
+        ncbi:NM_000402,
+        ncbi:NM_000560,
+        ncbi:NM_000565,
+        ncbi:NM_000570,
+        ncbi:NM_000576,
+        ncbi:NM_000585,
+        ncbi:NM_000589,
+        ncbi:NM_000594_2,
+        ncbi:NM_000632,
+        ncbi:NM_000636,
+        ncbi:NM_000675,
+        ncbi:NM_000758,
+        ncbi:NM_000759,
+        ncbi:NM_000874,
+        ncbi:NM_000876,
+        ncbi:NM_000899,
+        ncbi:NM_001014797,
+        ncbi:NM_001030272,
+        ncbi:NM_001031683,
+        ncbi:NM_001031804,
+        ncbi:NM_001042771,
+        ncbi:NM_001098175,
+        ncbi:NM_001114380,
+        ncbi:NM_001114614,
+        ncbi:NM_001114735,
+        ncbi:NM_001128918,
+        ncbi:NM_001130845,
+        ncbi:NM_001143805,
+        ncbi:NM_001144999,
+        ncbi:NM_001145031,
+        ncbi:NM_001145938,
+        ncbi:NM_001165,
+        ncbi:NM_001165412,
+        ncbi:NM_001168298,
+        ncbi:NM_001168319,
+        ncbi:NM_001178096,
+        ncbi:NM_001190942,
+        ncbi:NM_001190981,
+        ncbi:NM_001191,
+        ncbi:NM_001197320,
+        ncbi:NM_001199149,
+        ncbi:NM_001223,
+        ncbi:NM_001242524_2,
+        ncbi:NM_001243084,
+        ncbi:NM_001267562,
+        ncbi:NM_001286968,
+        ncbi:NM_001320923,
+        ncbi:NM_001322194,
+        ncbi:NM_001329128_2,
+        ncbi:NM_001354924,
+        ncbi:NM_001357678,
+        ncbi:NM_001362846,
+        ncbi:NM_001363626,
+        ncbi:NM_001363744,
+        ncbi:NM_001419,
+        ncbi:NM_001547,
+        ncbi:NM_001781,
+        ncbi:NM_002089,
+        ncbi:NM_002090,
+        ncbi:NM_002185,
+        ncbi:NM_002205,
+        ncbi:NM_002228,
+        ncbi:NM_002229,
+        ncbi:NM_002395,
+        ncbi:NM_002412,
+        ncbi:NM_002988_2,
+        ncbi:NM_003155,
+        ncbi:NM_003641,
+        ncbi:NM_003725,
+        ncbi:NM_004106,
+        ncbi:NM_004419,
+        ncbi:NM_004951,
+        ncbi:NM_004994,
+        ncbi:NM_005252,
+        ncbi:NM_005564,
+        ncbi:NM_005953,
+        ncbi:NM_006435,
+        ncbi:NM_006500,
+        ncbi:NM_014398,
+        ncbi:NM_015675,
+        ncbi:NM_021950 .
+
+ncbi:NM_002185 rdfs:label "IL7R"^^xsd:string ;
+    obo:PATO_0001668 ncbi:NM_000355,
+        ncbi:NM_000377,
+        ncbi:NM_000914,
+        ncbi:NM_001033553,
+        ncbi:NM_001039664,
+        ncbi:NM_001079821,
+        ncbi:NM_001083116,
+        ncbi:NM_001126131,
+        ncbi:NM_001142531,
+        ncbi:NM_001172566,
+        ncbi:NM_001251882,
+        ncbi:NM_001270507,
+        ncbi:NM_001320923,
+        ncbi:NM_001321378,
+        ncbi:NM_001322194,
+        ncbi:NM_001354924,
+        ncbi:NM_001357678,
+        ncbi:NM_001363626,
+        ncbi:NM_001363702,
+        ncbi:NM_001363744,
+        ncbi:NM_002378,
+        ncbi:NM_002562,
+        ncbi:NM_002745,
+        ncbi:NM_002831,
+        ncbi:NM_003380,
+        ncbi:NM_005953,
+        ncbi:NM_020529,
+        ncbi:NM_021950 .
+

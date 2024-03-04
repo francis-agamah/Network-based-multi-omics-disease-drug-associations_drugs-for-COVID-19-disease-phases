@@ -1,0 +1,702 @@
+ABCB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+ABCB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+ABCB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ADM	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL2
+ANXA2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+APOE	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+B2M	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+B2M	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+B2M	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+C4BPB	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+CASP8	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CCL11	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	CCL2
+CCL2	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CCL2	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL3
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NFKB1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1RN
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSL
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL18
+CCL2	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL13
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LAMP3
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL10
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	THBD
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL8
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL7
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	S100A12
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL20
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL9
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL11
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CAV1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL18
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1B
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSB
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCER1G
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LYZ
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	STAT3
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MUC1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAS1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD14
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	RTN1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1R2
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NCAM1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NLRP3
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	RPGR
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	STAT1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD163
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MRC1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGB2
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MX1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TRIM21
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FLT1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCR1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ERG
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	S100A8
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TLR2
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CYTIP
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSC
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTLA4
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	VDR
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	DDIT3
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PLAAT4
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1R1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HAVCR2
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TAP1
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IRF9
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCR4
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-DRA
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6ST
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK2
+CCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LPO
+CCL20	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+CCL3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CCL3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL4
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SOD2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TNF
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1A
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL8
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD8A
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD4
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL10RA
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1RN
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL10
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSL
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PDCD1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NFKB1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL9
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	S100A12
+CCL4	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	CCL8
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TGFB1
+CCL4	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	CCL7
+CCL4	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL11
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD83
+CCL4	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	MMP12
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TNFSF10
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PLAU
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JUN
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ADORA2A
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ADSL
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ARNTL
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ARRB2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ASGR2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BCL6
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BIRC3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BTK
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL18
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1B
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LCK
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ICAM1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MEFV
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFNG
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	GZMB
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	EPCAM
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCGR3A
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PRF1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCGR3B
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSB
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD14
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCER1G
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LYZ
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NLRP3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TLR4
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL5
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MS4A1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IRF1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SH2D3C
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HSPA5
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	STAT3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PTPN6
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGB2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCR1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD163
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCR6
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MRC1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TLR2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SIK1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HP
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	S100A8
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	S100A9
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD74
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	OASL
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFIT3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	KRT10
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	UBE2L6
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TAP1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IRF9
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LY6E
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFIT1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SLC3A2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCR4
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SERPINA1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAPK3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	RAF1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PF4
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CREM
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NFKBIA
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD69
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TNFAIP3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CYBB
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FOS
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD53
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	GPR183
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MYD88
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD3D
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCR2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MT2A
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TCN2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ENTPD1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFITM2
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	P2RX7
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	WAS
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAPK14
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	F3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-DRA
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-F
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CTSC
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CYTIP
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL5
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JUNB
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LGALS3
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-DPA1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-DPB1
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	DUSP5
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-E
+CCL4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HSD17B6
+CD14	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD83	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CD83	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CFP	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CTSL	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CTSL	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCL1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCL10	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CXCL10	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCL5	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+CXCL8	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+EPO	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+FCGR3A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+FCGR3A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+FGF2	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+HLA-A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+HLA-C	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-C	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+HSPA5	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+ICAM1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IFNG	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IGFBP3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IGFBP7	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IGFBP7	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL10	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL10RA	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL13	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL16	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL18	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL18R1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL1A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL1RN	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL1RN	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	SOD2
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	TNF
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LAMP3
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	NFKB1
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	PLAU
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	TNFSF10
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	OSM
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	THPO
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	PDGFB
+IL6	Networks/Proteomics-all_sig_mild_absolute_PCC_0.1.txt	STC1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	KITLG
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MGMT
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ACSM3
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ADORA2A
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ARNTL
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BCL2A1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BCL2L1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BCL6
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BDNF
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	BIRC3
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CASP1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CCL18
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD53
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CD69
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CIITA
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CREM
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CSF2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCL3
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	CXCR2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	DUSP5
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	EDN1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ELAVL1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ENTPD1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FBN1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCER1G
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FCGR3B
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	FOS
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	G6PD
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	GADD45B
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	GPR183
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HIF1A
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HLA-DPA1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	HSD17B6
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFIT2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFITM1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFITM2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFNAR2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFNB1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IFNGR2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IGF2R
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL15
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL1B
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGAM
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LCK
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MS4A1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LTF
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6ST
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IRF1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK2
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LYZ
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JUN
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MMP9
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MT2A
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MCL1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JUNB
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MSR1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LGALS3
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGAL
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MARK3
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JUND
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGAV
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MMP1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ITGA5
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAF
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAOA
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MFGE8
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	ME1
+IL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MCAM
+IL7	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+LAMP3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+LTF	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+LYZ	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+NCAM1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+NFKB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+PDCD1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+PLAU	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+PLG	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+SERPINF2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+SERPING1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+SOD2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+TNFSF10	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+TNFSF14	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+YWHAE	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ADAM10	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ADAM17	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+ADORA2A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ARNTL	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ARRB2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+BCL6	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+BDNF	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+BIRC3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+BTK	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CASP1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CCL5	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CCR1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD19	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+CD19	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD3D	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD53	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD69	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CD82	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CR2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CREM	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CTSB	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+CTSB	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCL2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCL3	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+CXCR2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+DPP4	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+EDN1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ELAVL1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+ENTPD1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+F8	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+FCER1G	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+FCGR3B	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+FOS	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+GPR183	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HIF1A	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-DPA1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-DPB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-DRA	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-E	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HLA-F	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+HMGB1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IFITM1	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IK	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL1B	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL1R2	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6R
+IL2RA	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL3RA	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK1
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	STAT1
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL6ST
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	STAT3
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NELFCD
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	RTN4
+IL6R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK2
+IL6ST	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IL7R
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MS4A1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MAPK1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	IRF1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PTPN6
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	JAK2
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PRF1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SH2D3C
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NLRP3
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	SPECC1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TNFRSF25
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TNFAIP3
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MYD88
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	LGALS3
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	POLG
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MATK
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	WAS
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	P2RX7
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MT2A
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	NFKBIA
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	TCN2
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	VIPR1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	VIM
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MSR1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	OPRM1
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	MSX2
+IL7R	Networks/Transcriptomics-all_sig_mild_absolute_PCC_0.1.txt	PIK3C2A
+2-hydroxysebacate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+21-hydroxypregnenolone disulfate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+3-hydroxy-3-methylglutarate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+3-hydroxysebacate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+3-methylglutaconate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+4-acetamidobutanoate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+4-hydroxyhippurate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+4-methylhexanoylglutamine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+N-acetyl-isoputreanine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+N-acetylglucosamine/N-acetylgalactosamine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+N-acetylhistidine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+N1-methylinosine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+N2,N2-dimethylguanosine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+arachidonoylcholine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+behenoyl sphingomyelin (d18:1/22:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+dihomo-linolenoyl-choline	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+docosahexaenoylcholine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+dodecenedioate (C12:1-DC)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+glutamine conjugate of C6H10O2 (1)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+glutamine conjugate of C7H12O2*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+hexadecanedioate (C16-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+hexadecenedioate (C16:1-DC)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+lignoceroyl sphingomyelin (d18:1/24:0)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+linoleoylcholine*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+octadecenedioate (C18:1-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+octadecenedioylcarnitine (C18:1-DC)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+oleoylcholine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+palmitoylcholine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	stearoylcholine*
+phenylacetylglutamate	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+pyroglutamylalanine*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+pyroglutamylglutamine	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberate (C8-DC)
+sphingomyelin (d18:1/14:0, d16:1/16:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:1/19:0, d19:1/18:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:1/22:1, d18:2/22:0, d16:1/24:1)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:1/25:0, d19:0/24:1, d20:1/23:0, d19:1/24:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:2/21:0, d16:2/23:0)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+sphingomyelin (d18:2/23:0, d18:1/23:1, d17:1/24:1)*	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tricosanoyl sphingomyelin (d18:1/23:0)*
+suberate (C8-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	vanillylmandelate (VMA)
+suberate (C8-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	vanillactate
+suberate (C8-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	tetradecanedioate (C14-DC)
+suberate (C8-DC)	Networks/Metabolomics-all_sig_mild_absolute_PCC_0.1.txt	suberoylcarnitine (C8-DC)
+Unknown_mz_589.30219_+_RT_9.071	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_765.3349_+_RT_6.842
+Unknown_mz_589.30377_-_RT_8.717	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_765.3349_-_RT_6.822
+Unknown_mz_603.31915_-_RT_7.941	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_765.3349_-_RT_6.822
+Unknown_mz_721.54974_-_RT_20.015	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_765.5752_-_RT_20.235
+Unknown_mz_765.3349_+_RT_6.842	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_767.35071_-_RT_6.389
+Unknown_mz_765.3349_+_RT_6.842	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_769.36639_+_RT_6.393
+Unknown_mz_765.3349_+_RT_6.842	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_765.3349_-_RT_6.822
+Unknown_mz_765.3349_+_RT_6.842	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_935.31989_+_RT_6.496
+Unknown_mz_765.3349_-_RT_6.822	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_767.35071_-_RT_6.389
+Unknown_mz_765.3349_-_RT_6.822	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_769.36639_+_RT_6.393
+Unknown_mz_765.5752_-_RT_20.235	Networks/Lipidomics-all_sig_mild_absolute_PCC_0.1.txt	Unknown_mz_794.50909_-_RT_19.3
+CRTAC1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+FBLN5	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+KLKB1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ATRN;sp|O75882-3|ATRN_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SERPINA3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+AHSG	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ALB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+S100A8	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+GSN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+S100A9	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SAA2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LCP1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TNC;sp|P24821|TENA_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+CFP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+DEFA3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+GPLD1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+PGLYRP2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+APOA2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	IL6
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	glycerophosphoethanolamine
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-GPE (P-18:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-margaroyl-GPC (17:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-GPE (18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoleoyl-GPC (16:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearoyl-GPC (18:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	glycerophosphorylcholine (GPC)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	2-palmitoyl-GPC (16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-oleoyl-GPC (18:1)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	retinol (Vitamin A)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-GPC (14:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-GPC (O-16:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoyl-GPC (16:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-pentadecanoyl-GPC (15:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	9,10-DiHOME
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-oleoyl)-GPE (P-18:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearyl-GPC (O-18:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-GPC (18:2)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	2-linoleoyl-GPC (18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	sphingomyelin (d18:2/14:0, d18:1/14:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-dihomo-linolenoyl-GPC (20:3n3 or 6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-adrenoyl-GPC (22:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	6-bromotryptophan
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	retinal
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	taurine
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	serotonin
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	acetoacetate
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-eicosenoyl-GPC (20:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	proline
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-arachidonoyl-GPE (20:4n6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	glutamine conjugate of C6H10O2 (2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	flavin adenine dinucleotide (FAD)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	citrulline
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	5-methyluridine (ribothymidine)
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-pentadecanoyl-GPC (15:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-GPE (P-18:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	taurine
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-margaroyl-GPC (17:0)
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-GPC (14:0)
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	6-bromotryptophan
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-GPC (O-16:0)
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-oleoyl)-GPE (P-18:1)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-adrenoyl-GPC (22:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearyl-GPC (O-18:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	N-acetyl-2-aminoadipate
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	phosphatidylethanolamine (P-18:1/20:4, P-16:0/22:5n3)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	phosphoethanolamine
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+GPX3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGFBP3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH4	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TF	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SFTPB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+CLEC3B	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+AGT	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGLV3-1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LRG1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TTR	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+HRG	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SERPINA5	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SAA1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LBP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+MRC1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+HLA-B	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGFALS	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH3;sp|Q06033|ITIH3_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LGALS3BP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TIMP1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+FETUB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+CRTAC1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+FBLN5	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+KLKB1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ATRN;sp|O75882-3|ATRN_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SERPINA3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+AHSG	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ALB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+S100A8	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+GSN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+S100A9	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SAA2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LCP1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TNC;sp|P24821|TENA_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+CFP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+DEFA3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+GPLD1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+PGLYRP2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+APOA2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	IL6
+1-(1-enyl-palmitoyl)-2-oleoyl-GPC (P-16:0/18:1)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPE (P-16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-GPE (P-18:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-margaroyl-GPC (17:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-GPE (18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-GPC (P-16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoleoyl-GPC (16:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-2-linoleoyl-GPC (14:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearoyl-GPC (18:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	glycerophosphorylcholine (GPC)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	2-palmitoyl-GPC (16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-oleoyl-GPC (18:1)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	retinol (Vitamin A)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-GPC (14:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-myristoyl-2-arachidonoyl-GPC (14:0/20:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-GPC (O-16:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoyl-GPC (16:0)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-pentadecanoyl-GPC (15:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	9,10-DiHOME
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-oleoyl)-GPE (P-18:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearyl-GPC (O-18:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-linoleoyl-GPC (18:2)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	2-linoleoyl-GPC (18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	sphingomyelin (d18:2/14:0, d18:1/14:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-dihomo-linolenoyl-GPC (20:3n3 or 6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-adrenoyl-GPC (22:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	6-bromotryptophan
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-docosahexaenoyl-GPC (P-16:0/22:6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	retinal
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	taurine
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	serotonin
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-dihomo-linolenoyl-GPC (P-16:0/20:3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	acetoacetate
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-eicosenoyl-GPC (20:1)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	proline
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-arachidonoyl-GPE (20:4n6)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	glutamine conjugate of C6H10O2 (2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	flavin adenine dinucleotide (FAD)
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	citrulline
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*
+IL6	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	5-methyluridine (ribothymidine)
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPE (P-18:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-oleoyl)-GPE (P-18:1)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE (P-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmityl-2-linoleoyl-GPC (O-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-adrenoyl-GPC (22:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-stearyl-GPC (O-18:0)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC (P-16:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE (P-18:0/20:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	N-acetyl-2-aminoadipate
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	phosphatidylethanolamine (P-18:1/20:4, P-16:0/22:5n3)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE (P-16:0/20:4)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	diacylglycerol (16:1/18:2 [2], 16:0/18:3 [1])*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-(1-enyl-stearoyl)-2-linoleoyl-GPC (P-18:0/18:2)*
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	phosphoethanolamine
+CCL2	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	1-palmitoyl-2-stearoyl-GPC (16:0/18:0)
+1-(1-enyl-stearoyl)-GPE (P-18:0)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-(1-enyl-stearoyl)-2-dihomo-linolenoyl-GPE (P-18:0/20:3)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-(1-enyl-stearoyl)-2-docosapentaenoyl-GPE (P-18:0/22:5n3)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+6-bromotryptophan	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+taurine	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+glycerophosphoethanolamine	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	IL6
+1-(1-enyl-palmitoyl)-GPE (P-16:0)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-margaroyl-GPC (17:0)	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-linoleoyl-2-docosahexaenoyl-GPC (18:2/22:6)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-myristoyl-GPC (14:0)	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-palmityl-GPC (O-16:0)	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+1-pentadecanoyl-GPC (15:0)*	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-metabolite.txt12	CCL2
+GPX3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGFBP3	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH4	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TF	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SFTPB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+CLEC3B	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+AGT	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGLV3-1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LRG1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TTR	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+HRG	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SERPINA5	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+SAA1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LBP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+MRC1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+HLA-B	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+IGFALS	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+ITIH3;sp|Q06033|ITIH3_HUMAN	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+LGALS3BP	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+TIMP1	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
+FETUB	bipartite/Overmyer-Su-cross-layer_including_unknown_protein-transcript.txt1	IL7R
